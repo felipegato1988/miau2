@@ -1,11 +1,19 @@
-
 #EXTM3U
+
 #EXTINF:-1,Radio Anime
 https://stream.zeno.fm/wpyct1ugdq8uv
+
 #EXTINF:-1,Radio Disney
 https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ECU_GY_SC
+
 #EXTINF:-1,JC Radio
 https://s7.yesstreaming.net:8040/stream
+
 #EXTINF:-1,La Voz del Tomebamba
 https://streamingecuador.com:8074/lavozdeltomebamba
 
+#EXTINF:-1, Alfa Radio
+https://alba-ec-alfa-alfa.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1, Radio HJCB
+https://streamingecuador.net:8287/hcjb
