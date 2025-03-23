@@ -9,7 +9,7 @@ https://stream-175.zeno.fm/cpknd5gm8ixtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ
 #EXTINF:-1,Radio Disney
 https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ECU_GY_SC
 
-#EXTINF:-1,JC Radio
+#EXTINF:-1,JC Radio LA BRUJA
 https://s7.yesstreaming.net:8040/stream
 
 #EXTINF:-1,La Voz del Tomebamba
@@ -20,3 +20,94 @@ https://alba-ec-alfa-alfa.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1, Radio HJCB
 https://streamingecuador.net:8287/hcjb
+
+#EXTINF:-1, Radio MARIA
+https://radioserver11.profesionalhosting.com:19069/stream
+
+#EXTINF:-1, Radio TROPICALIDA
+https://alba-ec-tropicalida-tropicalida.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1, Radio Canela
+https://streamingecuador.com:9280/stream
+
+#EXTINF:-1, Radio la otra
+https://laotrafm.makrodigital.com:9590/stream
+
+#EXTINF:-1, Radio america esterio
+https://streamingecuador.com/stream/americaestereo
+
+#EXTINF:-1, Radio centro
+https://streaming.ecuastreaming.com:7006/stream/1/
+
+#EXTINF:-1, Radio La red
+https://icecast.ticsecuador.com.ec/radiolared
+
+#EXTINF:-1, Radio Exa
+https://27363.live.streamtheworld.com/ECUADOR_SC
+
+#EXTINF:-1, Radio Sucre
+https://streamingecuador.net:8076/radiosucre
+
+#EXTINF:-1, Radio Galaxia
+https://dxpu1x3srkt4s.cloudfront.net/index.m3u8
+
+#EXTINF:-1, Radio La Rumbera
+https://cast.uncuartocomunicacion.com/hls/larumbera/live.m3u8
+
+#EXTINF:-1, Radio Caravana
+https://streamingecuador.net:9006/stream
+
+#EXTINF:-1, Radio La Metro
+https://alba-ec-lametro-lametro.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1, Radio fm Mundo
+https://streamingecuador.net:8066/fmmundo
+
+#EXTINF:-1, Radio k1
+https://streamingecuador.com:8000/radiok1
+
+#EXTINF:-1, Radio Sonorama
+https://radio.kapchosting.com/8080/stream/1/
+
+#EXTINF:-1, Radio huancavilca
+https://streamingecuador.net:7078/stream
+
+#EXTINF:-1, Radio Activa
+https://dattavolt.com/8394/stream
+
+#EXTINF:-1, Radio Super fm
+https://dattavolt.com/8028/stream
+
+#EXTINF:-1, Radio Punto Rojo
+https://streamingecuador.com:8970/stream
+
+#EXTINF:-1, Radio la joya
+https://alba-ec-joya-joya.stream.mediatiquestream.com/chunks.m3u8
+
+#EXTINF:-1, Radio la Majestad
+https://sonicpanel.tmcreativos.com:8084/stream/1/
+
+#EXTINF:-1, Radio Rumba
+https://streamingecuador.net:8078/radiorumbanetwork
+
+#EXTINF:-1, Radio R 90.1
+https://streamingecuador.com:9010/stream
+
+#EXTINF:-1, Radio Zaracay
+https://stream-161.zeno.fm/as3xhhc0ts8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhczN4aGhjMHRzOHV2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjBDNl9sd0VXUnNHeGFRdEhmWm42ZHciLCJpYXQiOjE3NDI3NjQ1OTAsImV4cCI6MTc0Mjc2NDY1MH0.UekC3ZSGhw2PxaWp_vTG_vlFzTo0id6cKPHzjlaK_Dk
+
+#EXTINF:-1, Radio Nuevo tiempo
+https://streamingecuador.net/stream/radionuevotiempo
+
+#EXTINF:-1, Radio Complice
+https://dattavolt.com/8422/stream
+
+#EXTINF:-1, Radio Platinum
+https://streamingecuador.com:8160/radioplatinum
+
+#EXTINF:-1, Radio Quito
+https://streamingecuador.net:8332/radioquito
+
+#EXTINF:-1, Radio Andina
+https://grupomundodigital.com:8580/stream
+
