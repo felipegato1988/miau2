@@ -186,4 +186,53 @@ https://one.stweb.tv/one/live/playlist.m3u8
 #EXTINF:-1 group-title="Radio Argentina ", Radio rosario3
 https://streaming320tb.locucionar.com/proxy/radio2?mp=/stream/1/
 
+#EXTINF:-1 group-title="Radio Argentina ", Radio blue
+https://24443.live.streamtheworld.com/BLUE_FM_100_7_SC
 
+#EXTINF:-1 group-title="Radio Argentina ", Radio delta
+https://cdn.instream.audio/:9069/stream
+
+#EXTINF:-1 group-title="Radio Argentina ", Radio gamba
+https://servidor1.hostradios.com:8132/stream
+
+#EXTINF:-1 group-title="Radio Argentina ", Radio Con vos
+https://server1.stweb.tv/rcvos/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Radio Argentina ", Radio Suquia
+ttps://streaming01.shockmedia.com.ar:10945/stream/1/
+
+#EXTINF:-1 group-title="Radio Argentina ", Radio la 2x4
+https://media.radios.ar:9270/stream
+
+#EXTINF:-1 group-title="Radio Argentina ", Radio nacional folclorica
+https://sa.mp3.icecast.magma.edge-access.net/sc_rad39
+
+#EXTINF:-1 group-title="Radio Argentina ", Radio latina
+https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
+
+#EXTINF:-1 group-title="Radio Argentina ", Radio nacional folclorica
+https://sa.mp3.icecast.magma.edge-access.net/sc_rad38
+
+#EXTINF:-1 group-title="Radio Argentina ", Radio sonic fm
+https://streams.cloudcast.media/radio/8000/listen.mp3
+
+#EXTINF:-1 group-title="Radio Argentina ", Radio milelium
+https://sonicpanel.hostradios.com/8002/stream
+
+#EXTINF:-1 group-title="Radio Argentina ", Radio MUCHA ADIO
+https://27373.live.streamtheworld.com/MUCHA_RADIO_SC
+
+#EXTINF:-1 group-title="Radio Argentina ", Radio nacional clasica
+https://sa.mp3.icecast.magma.edge-access.net/sc_rad37
+
+#EXTINF:-1 group-title="Radio Argentina ", Radio fonica
+https://radio02.ferozo.com/proxy/ra02000290?mp=/stream/1/
+
+#EXTINF:-1 group-title="Radio Argentina ", Radio el mundo
+https://streaming.escuchanosonline.com:7118/stream/1/
+
+#EXTINF:-1 group-title="Radio Argentina ", Radio 770
+https://cdn.instream.audio:9582/stream
+
+#EXTINF:-1 group-title="Radio Argentina ", Radio oktubre
+https://22833.live.streamtheworld.com/OKTUBRE_SC
