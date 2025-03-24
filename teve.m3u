@@ -134,3 +134,56 @@ https://17993.live.streamtheworld.com/ROCKANDPOP_SC
 
 #EXTINF:-1 group-title="Radio Argentina ", Radio Vorterix
 https://ice2.edge-apps.net/radio1_high-20057.audio
+
+#EXTINF:-1 group-title="Radio Argentina ", Radio aspen
+https://27383.live.streamtheworld.com/ASPEN_SC
+
+#EXTINF:-1 group-title="Radio Argentina ", Radio vale 97.5
+https://vale.stweb.tv/vale/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Radio Argentina ", Radio del Plata
+https://streaming01.shockmedia.com.ar:10217/stream
+
+#EXTINF:-1 group-title="Radio Argentina ", Radio metro 91.1
+https://26643.live.streamtheworld.com/METRO_SC
+
+#EXTINF:-1 group-title="Radio Argentina ", Radio la popu
+https://27353.live.streamtheworld.com/LAPOPU_SC
+
+#EXTINF:-1 group-title="Radio Argentina ", Radio vida
+https://streaming450tb.locucionar.com/proxy/fmvida979?mp=/stream
+
+#EXTINF:-1 group-title="Radio Argentina ", Radio nacional
+https://sa.mp3.icecast.magma.edge-access.net/sc_rad1
+
+#EXTINF:-1 group-title="Radio Argentina ", Radio Am910
+https://27323.live.streamtheworld.com/LA_RED_AM910AAC_SC
+
+#EXTINF:-1 group-title="Radio Argentina ", Radio C3
+https://26523.live.streamtheworld.com/RADIO3_SC
+
+#EXTINF:-1 group-title="Radio Argentina ", Radio RIVADAVIA
+https://24283.live.streamtheworld.com/RIVADAVIA_SC
+
+#EXTINF:-1 group-title="Radio Argentina ", Radio Continental
+https://edge04.radiohdvivo.com/stream/continental
+
+#EXTINF:-1 group-title="Radio Argentina ", Radio HEAT_SC
+https://26583.live.streamtheworld.com/CADENAHEAT_SC
+
+#EXTINF:-1 group-title="Radio Argentina ", Radio AM750
+https://24363.live.streamtheworld.com/AM750AAC_SC
+
+#EXTINF:-1 group-title="Radio Argentina ", Radio Sucesos
+https://ssl.dainusradio.com/shoutcast2/2341/stream/1/
+
+#EXTINF:-1 group-title="Radio Argentina ", Radio stacion del sol
+https://streamserver-2.xyz/listen/estacion_del_sol/radio.aac
+
+#EXTINF:-1 group-title="Radio Argentina ", Radio one
+https://one.stweb.tv/one/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Radio Argentina ", Radio rosario3
+https://streaming320tb.locucionar.com/proxy/radio2?mp=/stream/1/
+
+
