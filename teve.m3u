@@ -119,3 +119,18 @@ https://streaming.ecuastreaming.com/9958/stream/1/
 
 #EXTINF:-1 group-title="Radio Ecuador ", Radio Morena
 https://www.mistr3m.com:2020/stream/radiomorena
+
+#EXTINF:-1 group-title="Radio Argentina ", Radio Los 40
+https://alpha.radioplayer.com.ar/stream/los40
+
+#EXTINF:-1 group-title="Radio Argentina ", Radio R10
+https://radio10.stweb.tv/radio10/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Radio Argentina ", Radio Mega 98.3
+https://mega.stweb.tv/mega983/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Radio Argentina ", Radio rock & pop
+https://17993.live.streamtheworld.com/ROCKANDPOP_SC
+
+#EXTINF:-1 group-title="Radio Argentina ", Radio Vorterix
+https://ice2.edge-apps.net/radio1_high-20057.audio
