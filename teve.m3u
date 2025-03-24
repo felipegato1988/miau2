@@ -1,121 +1,121 @@
 #EXTM3U
 
-#EXTINF:-1,Radio Anime
+#EXTINF:-1 group-title="Radio Ecuador ",Radio Anime
 https://stream.zeno.fm/wpyct1ugdq8uv
 
-#EXTINF:-1,LA NUEVE
+#EXTINF:-1 group-title="Radio Ecuador ",LA NUEVE
 https://stream-175.zeno.fm/cpknd5gm8ixtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjcGtuZDVnbThpeHR2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InMycmRKWmw5VE5LeTZSWFgzTVlCZmciLCJpYXQiOjE3NDI3NjE5OTQsImV4cCI6MTc0Mjc2MjA1NH0.Z07WOdIQW5xQ7qtFpLBl2CMVHa73KqKWe2evA00Aodw
 
-#EXTINF:-1,Radio Disney
+#EXTINF:-1 group-title="Radio Ecuador ",Radio Disney
 https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ECU_GY_SC
 
-#EXTINF:-1,JC Radio LA BRUJA
+#EXTINF:-1 group-title="Radio Ecuador ",JC Radio LA BRUJA
 https://s7.yesstreaming.net:8040/stream
 
-#EXTINF:-1,La Voz del Tomebamba
+#EXTINF:-1 group-title="Radio Ecuador ",La Voz del Tomebamba
 https://streamingecuador.com:8074/lavozdeltomebamba
 
-#EXTINF:-1, Alfa Radio
+#EXTINF:-1 group-title="Radio Ecuador ", Alfa Radio
 https://alba-ec-alfa-alfa.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1, Radio HJCB
+#EXTINF:-1 group-title="Radio Ecuador ", Radio HJCB
 https://streamingecuador.net:8287/hcjb
 
-#EXTINF:-1, Radio MARIA
+#EXTINF:-1 group-title="Radio Ecuador ", Radio MARIA
 https://radioserver11.profesionalhosting.com:19069/stream
 
-#EXTINF:-1, Radio TROPICALIDA
+#EXTINF:-1 group-title="Radio Ecuador ", Radio TROPICALIDA
 https://alba-ec-tropicalida-tropicalida.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1, Radio Canela
+#EXTINF:-1 group-title="Radio Ecuador ", Radio Canela
 https://streamingecuador.com:9280/stream
 
-#EXTINF:-1, Radio la otra
+#EXTINF:-1 group-title="Radio Ecuador ", Radio la otra
 https://laotrafm.makrodigital.com:9590/stream
 
-#EXTINF:-1, Radio america esterio
+#EXTINF:-1 group-title="Radio Ecuador ", Radio america esterio
 https://streamingecuador.com/stream/americaestereo
 
-#EXTINF:-1, Radio centro
+#EXTINF:-1 group-title="Radio Ecuador ", Radio centro
 https://streaming.ecuastreaming.com:7006/stream/1/
 
-#EXTINF:-1, Radio La red
+#EXTINF:-1 group-title="Radio Ecuador ", Radio La red
 https://icecast.ticsecuador.com.ec/radiolared
 
-#EXTINF:-1, Radio Exa
+#EXTINF:-1 group-title="Radio Ecuador ", Radio Exa
 https://27363.live.streamtheworld.com/ECUADOR_SC
 
-#EXTINF:-1, Radio Sucre
+#EXTINF:-1 group-title="Radio Ecuador ", Radio Sucre
 https://streamingecuador.net:8076/radiosucre
 
-#EXTINF:-1, Radio Galaxia
+#EXTINF:-1 group-title="Radio Ecuador ", Radio Galaxia
 https://dxpu1x3srkt4s.cloudfront.net/index.m3u8
 
-#EXTINF:-1, Radio La Rumbera
+#EXTINF:-1 group-title="Radio Ecuador ", Radio La Rumbera
 https://cast.uncuartocomunicacion.com/hls/larumbera/live.m3u8
 
-#EXTINF:-1, Radio Caravana
+#EXTINF:-1 group-title="Radio Ecuador ", Radio Caravana
 https://streamingecuador.net:9006/stream
 
-#EXTINF:-1, Radio La Metro
+#EXTINF:-1 group-title="Radio Ecuador ", Radio La Metro
 https://alba-ec-lametro-lametro.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1, Radio fm Mundo
+#EXTINF:-1 group-title="Radio Ecuador ", Radio fm Mundo
 https://streamingecuador.net:8066/fmmundo
 
-#EXTINF:-1, Radio k1
+#EXTINF:-1 group-title="Radio Ecuador ", Radio k1
 https://streamingecuador.com:8000/radiok1
 
-#EXTINF:-1, Radio Sonorama
+#EXTINF:-1 group-title="Radio Ecuador ", Radio Sonorama
 https://radio.kapchosting.com/8080/stream/1/
 
-#EXTINF:-1, Radio huancavilca
+#EXTINF:-1 group-title="Radio Ecuador ", Radio huancavilca
 https://streamingecuador.net:7078/stream
 
-#EXTINF:-1, Radio Activa
+#EXTINF:-1 group-title="Radio Ecuador ", Radio Activa
 https://dattavolt.com/8394/stream
 
-#EXTINF:-1, Radio Super fm
+#EXTINF:-1 group-title="Radio Ecuador ", Radio Super fm
 https://dattavolt.com/8028/stream
 
-#EXTINF:-1, Radio Punto Rojo
+#EXTINF:-1 group-title="Radio Ecuador ", Radio Punto Rojo
 https://streamingecuador.com:8970/stream
 
-#EXTINF:-1, Radio la joya
+#EXTINF:-1 group-title="Radio Ecuador ", Radio la joya
 https://alba-ec-joya-joya.stream.mediatiquestream.com/chunks.m3u8
 
-#EXTINF:-1, Radio la Majestad
+#EXTINF:-1 group-title="Radio Ecuador ", Radio la Majestad
 https://sonicpanel.tmcreativos.com:8084/stream/1/
 
-#EXTINF:-1, Radio Rumba
+#EXTINF:-1 group-title="Radio Ecuador ", Radio Rumba
 https://streamingecuador.net:8078/radiorumbanetwork
 
-#EXTINF:-1, Radio R 90.1
+#EXTINF:-1 group-title="Radio Ecuador ", Radio R 90.1
 https://streamingecuador.com:9010/stream
 
-#EXTINF:-1, Radio Zaracay
+#EXTINF:-1 group-title="Radio Ecuador ", Radio Zaracay
 https://stream-161.zeno.fm/as3xhhc0ts8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhczN4aGhjMHRzOHV2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjBDNl9sd0VXUnNHeGFRdEhmWm42ZHciLCJpYXQiOjE3NDI3NjQ1OTAsImV4cCI6MTc0Mjc2NDY1MH0.UekC3ZSGhw2PxaWp_vTG_vlFzTo0id6cKPHzjlaK_Dk
 
-#EXTINF:-1, Radio Nuevo tiempo
+#EXTINF:-1 group-title="Radio Ecuador ", Radio Nuevo tiempo
 https://streamingecuador.net/stream/radionuevotiempo
 
-#EXTINF:-1, Radio Complice
+#EXTINF:-1 group-title="Radio Ecuador ", Radio Complice
 https://dattavolt.com/8422/stream
 
-#EXTINF:-1, Radio Platinum
+#EXTINF:-1 group-title="Radio Ecuador ", Radio Platinum
 https://streamingecuador.com:8160/radioplatinum
 
-#EXTINF:-1, Radio Quito
+#EXTINF:-1 group-title="Radio Ecuador ", Radio Quito
 https://streamingecuador.net:8332/radioquito
 
-#EXTINF:-1, Radio Andina
+#EXTINF:-1 group-title="Radio Ecuador ", Radio Andina
 https://grupomundodigital.com:8580/stream
 
-#EXTINF:-1, Radio Ambato
+#EXTINF:-1 group-title="Radio Ecuador ", Radio Ambato
 https://rr5100.globalhost1.com/8140/stream/1/
 
-#EXTINF:-1, Radio Cristal
+#EXTINF:-1 group-title="Radio Ecuador ", Radio Cristal
 https://streaming.ecuastreaming.com/9958/stream/1/
 
-#EXTINF:-1, Radio Morena
+#EXTINF:-1 group-title="Radio Ecuador ", Radio Morena
 https://www.mistr3m.com:2020/stream/radiomorena
