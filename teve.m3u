@@ -75,14 +75,8 @@ https://laotrafm.makrodigital.com:9590/stream
 #EXTINF:-1 group-title="Radio Ecuador ", Radio america esterio
 https://streamingecuador.com/stream/americaestereo
 
-#EXTINF:-1 group-title="Radio Ecuador ", Radio centro
-https://streaming.ecuastreaming.com:7006/stream/1/
-
 #EXTINF:-1 group-title="Radio Ecuador ", Radio La red
 https://icecast.ticsecuador.com.ec/radiolared
-
-#EXTINF:-1 group-title="Radio Ecuador ", Radio Exa
-https://27363.live.streamtheworld.com/ECUADOR_SC
 
 #EXTINF:-1 group-title="Radio Ecuador ", Radio Sucre
 https://streamingecuador.net:8076/radiosucre
@@ -152,12 +146,6 @@ https://grupomundodigital.com:8580/stream
 
 #EXTINF:-1 group-title="Radio Ecuador ", Radio Ambato
 https://rr5100.globalhost1.com/8140/stream/1/
-
-#EXTINF:-1 group-title="Radio Ecuador ", Radio Cristal
-https://streaming.ecuastreaming.com/9958/stream/1/
-
-#EXTINF:-1 group-title="Radio Ecuador ", Radio Morena
-https://www.mistr3m.com:2020/stream/radiomorena
 
 #EXTINF:-1 group-title="Radio Argentina ", Radio Los 40
 https://alpha.radioplayer.com.ar/stream/los40
