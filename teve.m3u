@@ -354,4 +354,21 @@ https://stream.creaxium.com/listen/fm_hit_99.1/stream192
 #EXTINF:-1 group-title="Radio CHILE ", Radio CORAZON
 https://playerservices.streamtheworld.com/api/livestream-redirect/CORAZON_SC
 
+#EXTINF:-1 group-title="Radio CHILE ", Radio COOPERATIVA
+https://unlimited5-us.dps.live/cooperativafm/mp3/icecast.audio
+
+#EXTINF:-1 group-title="Radio CHILE ", Radio ADN
+https://playerservices.streamtheworld.com/api/livestream-redirect/ADNAAC_SC
+
+#EXTINF:-1 group-title="Radio CHILE ", Radio LOS40
+https://26503.live.streamtheworld.com/LOS40_CHILE_SC
+
+#EXTINF:-1 group-title="Radio CHILE ", Radio FUTURO
+https://playerservices.streamtheworld.com/api/livestream-redirect/FUTUROAAC_SC
+
+#EXTINF:-1 group-title="Radio CHILE ", Radio ACTIVA
+https://27583.live.streamtheworld.com/ACTIVA_SC
+
+#EXTINF:-1 group-title="Radio CHILE ", Radio FMDOS
+https://27583.live.streamtheworld.com/FMDOSAAC_SC
 
