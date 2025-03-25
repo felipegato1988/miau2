@@ -51,9 +51,6 @@ https://s7.yesstreaming.net:8040/stream
 #EXTINF:-1 group-title="Radio Ecuador ", RADIO LATINA
 https://usa3.lhdserver.es:8087/stream
 
-#EXTINF:-1 group-title="Radio Ecuador ", RADIO LA UNICA
-https://video2.makrodigital.com/radiounicafm/radiounicafm/playlist.m3u8
-
 #EXTINF:-1 group-title="Radio Ecuador ",La Voz del Tomebamba
 https://streamingecuador.com:8074/lavozdeltomebamba
 
