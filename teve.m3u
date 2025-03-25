@@ -351,3 +351,7 @@ https://radio.yoemito.net:8006/stream
 #EXTINF:-1 group-title="Radio bolivia ", Radio HIT 99
 https://stream.creaxium.com/listen/fm_hit_99.1/stream192
 
+#EXTINF:-1 group-title="Radio CHILE ", Radio CORAZON
+https://playerservices.streamtheworld.com/api/livestream-redirect/CORAZON_SC
+
+
