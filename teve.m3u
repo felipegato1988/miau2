@@ -30,6 +30,9 @@ https://5cefcbf58ba2e.streamlock.net:543/superlaser/superlaser.stream/playlist.m
 #EXTINF:-1 group-title="Radio Ecuador ", CARAVANA
 https://streamingecuador.net:9006/stream
 
+#EXTINF:-1 group-title="Radio Ecuador ", RADIO CARIAMANGA
+https://sonic.streamseguro.com/8138/stream
+
 #EXTINF:-1 group-title="Radio Ecuador ", ECUASUR
 https://stream.hospedandosites.com.br:8092/stream/1/
 
@@ -41,6 +44,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ECU_GY_
 
 #EXTINF:-1 group-title="Radio Ecuador ",JC Radio LA BRUJA
 https://s7.yesstreaming.net:8040/stream
+
+#EXTINF:-1 group-title="Radio Ecuador ", RADIO LA UNICA
+https://video2.makrodigital.com/radiounicafm/radiounicafm/playlist.m3u8
 
 #EXTINF:-1 group-title="Radio Ecuador ",La Voz del Tomebamba
 https://streamingecuador.com:8074/lavozdeltomebamba
