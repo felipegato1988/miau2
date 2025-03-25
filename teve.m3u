@@ -372,3 +372,57 @@ https://27583.live.streamtheworld.com/ACTIVA_SC
 #EXTINF:-1 group-title="Radio CHILE ", Radio FMDOS
 https://27583.live.streamtheworld.com/FMDOSAAC_SC
 
+#EXTINF:-1 group-title="Radio CHILE ", Radio PUDAHUEL
+https://26583.live.streamtheworld.com/PUDAHUEL_SC
+
+#EXTINF:-1 group-title="Radio CHILE ", Radio romantica
+https://mdstrm.com/audio/639b78f7ff35df084fa7f964/live.m3u8
+
+#EXTINF:-1 group-title="Radio CHILE ", Radio IMAGINA
+https://26563.live.streamtheworld.com/IMAGINA_SC
+
+#EXTINF:-1 group-title="Radio CHILE ", Radio CONCIERTO
+https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTOAAC_SC
+
+#EXTINF:-1 group-title="Radio CHILE ", Radio ROCK_AND_POP
+https://24483.live.streamtheworld.com/ROCK_AND_POP_SC
+
+#EXTINF:-1 group-title="Radio CHILE ", Radio corporacion
+https://audio1.tustreaming.cl/8026/stream/1/
+
+#EXTINF:-1 group-title="Radio CHILE ", Radio conquistador
+https://stream10.usastreams.com/9314/stream
+
+#EXTINF:-1 group-title="Radio CHILE ", Radio festival
+https://sp001.servidoresph.com:7061//1
+
+#EXTINF:-1 group-title="Radio CHILE ", Radio uchile
+https://streamuchile.teslati.com/liveruch
+
+#EXTINF:-1 group-title="Radio CHILE ", Radio ok
+https://streaming.fmokey.cl/moviles.mp3
+
+#EXTINF:-1 group-title="Radio CHILE ", Radio tiempo
+https://mdstrm.com/audio/639b7943e0a27908a55dbf9e/live.m3u8
+
+#EXTINF:-1 group-title="Radio CHILE ", Radio fiesta
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/64ed1a4905a8915e7674ea80?aid=64e92b201aba3d17d25964b9&pid=zPPi7kguW0V5YAD3LoltoGNlHz0wTXVN&sid=ayTV0EWXgvJjTHUbkdwKbpK831NZxWAs&uid=9ZRjlW6AyNMUihC8kPIYf9AsSXF9RBGs&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1743027035251&ot=chXS-ogQyWw8rbcE1VhRhQ&proto=https&pz=us&cP=128000&awCollectionId=64e92b201aba3d17d25964b9&liveId=64ed1a4905a8915e7674ea80&referer=https%3A%2F%2Femisora.cl%2F&listenerId=9ZRjlW6AyNMUihC8kPIYf9AsSXF9RBGs
+
+#EXTINF:-1 group-title="Radio CHILE ", Radio digital
+https://unlimited5-us.dps.live/digitalfm/aac/icecast.audio
+
+#EXTINF:-1 group-title="Radio CHILE ", Radio ritoqueen
+https://sonando-us.digitalproserver.com/ritoquefm_aac
+
+#EXTINF:-1 group-title="Radio CHILE ", Radio sol
+https://us9.maindigitalstream.com/ssl/7389
+
+#EXTINF:-1 group-title="Radio CHILE ", Radio carnaval
+https://sonando-us.digitalproserver.com/carnaval_vinadelmar.aac
+
+#EXTINF:-1 group-title="Radio CHILE ", Radio trance
+https://stream.radioclub80.cl:8052/trancelive80.mp3
+
+#EXTINF:-1 group-title="Radio CHILE ", Radio austral
+https://archi-us.digitalproserver.com/austral.aac
+
