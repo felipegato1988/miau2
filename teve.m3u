@@ -33,6 +33,9 @@ https://streamingecuador.net:9006/stream
 #EXTINF:-1 group-title="Radio Ecuador ", RADIO CARIAMANGA
 https://sonic.streamseguro.com/8138/stream
 
+#EXTINF:-1 group-title="Radio Ecuador ", RADIO PROGRESO
+https://icecast.teveo.cu/XjfW7qWN
+
 #EXTINF:-1 group-title="Radio Ecuador ", ECUASUR
 https://stream.hospedandosites.com.br:8092/stream/1/
 
