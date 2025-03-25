@@ -171,9 +171,6 @@ https://vale.stweb.tv/vale/live/playlist.m3u8
 #EXTINF:-1 group-title="Radio Argentina ", Radio del Plata
 https://streaming01.shockmedia.com.ar:10217/stream
 
-#EXTINF:-1 group-title="Radio Argentina ", Radio metro 91.1
-https://26643.live.streamtheworld.com/METRO_SC
-
 #EXTINF:-1 group-title="Radio Argentina ", Radio la popu
 https://27353.live.streamtheworld.com/LAPOPU_SC
 
@@ -225,17 +222,11 @@ https://servidor1.hostradios.com:8132/stream
 #EXTINF:-1 group-title="Radio Argentina ", Radio Con vos
 https://server1.stweb.tv/rcvos/live/playlist.m3u8
 
-#EXTINF:-1 group-title="Radio Argentina ", Radio Suquia
-ttps://streaming01.shockmedia.com.ar:10945/stream/1/
-
 #EXTINF:-1 group-title="Radio Argentina ", Radio la 2x4
 https://media.radios.ar:9270/stream
 
 #EXTINF:-1 group-title="Radio Argentina ", Radio nacional folclorica
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad39
-
-#EXTINF:-1 group-title="Radio Argentina ", Radio latina
-https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 
 #EXTINF:-1 group-title="Radio Argentina ", Radio nacional folclorica
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad38
