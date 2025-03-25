@@ -267,3 +267,87 @@ https://radio.yoemito.net:8004/stream
 #EXTINF:-1 group-title="Radio bolivia ", Radio red patria nueva
 https://rponline.presidencia.gob.bo/stream
 
+#EXTINF:-1 group-title="Radio bolivia ", Radio MELODIA 99.1
+https://stream.consultoradas.com/8244/stream/1/
+
+#EXTINF:-1 group-title="Radio bolivia ", Radio FIDES
+https://usa7.fastcast4u.com/proxy/grflores?mp=/stream/1/
+
+#EXTINF:-1 group-title="Radio bolivia ", Radio STERIO
+https://stream.consultoradas.com/8104/stream/1/
+
+#EXTINF:-1 group-title="Radio bolivia ", Radio 91.9 ACTIVA
+https://radio02.com:7002/stream/1/
+
+#EXTINF:-1 group-title="Radio bolivia ", Radio CIUDAD
+https://streamingenbolivia.com/8002/stream/1/
+
+#EXTINF:-1 group-title="Radio bolivia ", Radio El Deber Radio
+https://cast5.asurahosting.com/proxy/eldeberm/stream/1/
+
+#EXTINF:-1 group-title="Radio bolivia ", Radio FM BOLIVIA
+https://stm11.xcast.com.br:11300/stream/1/
+
+#EXTINF:-1 group-title="Radio bolivia ", Radio BETANIA
+https://emiteradio.com/proxy/radiobetania?mp=/stream
+
+#EXTINF:-1 group-title="Radio bolivia ", Radio ACLO
+https://cloudstream2030.conectarhosting.com/8192/stream/1/
+
+#EXTINF:-1 group-title="Radio bolivia ", Radio CLASICA
+https://live.turadiotv.com/9976/stream/1/
+
+#EXTINF:-1 group-title="Radio bolivia ", Radio KOLLASUYA
+https://azura2.bitstreaming.net:8000/radio128.aac
+
+#EXTINF:-1 group-title="Radio bolivia ", Radio ERBOL
+https://radio.erbol.com.bo/
+
+#EXTINF:-1 group-title="Radio bolivia ", Radio GUADALQUIVIR
+https://sechin.grupocentroserver.com/listen/guadalquivir/radio.mp3
+
+#EXTINF:-1 group-title="Radio bolivia ", Radio WKM
+https://mdstrm.com/audio/5df7cf305396b836ef541c12/live.m3u8?partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzMTI4OTk0NSwiaXNzIjoidGlzcnYifQ.fKTxm_WBYRKfwsZdMSAnqFOPEBaVb8JjtaXvgURyEfw
+
+#EXTINF:-1 group-title="Radio bolivia ", Radio MEGA DJ
+https://stream-153.zeno.fm/zyu31nv6twzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6eXUzMW52NnR3enV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImdsMXVGdlhoUzJhUHZ1cFVINk9hOFEiLCJpYXQiOjE3NDI5MTk1ODksImV4cCI6MTc0MjkxOTY0OX0.yFktoTUwLW66X1ysKEhznzsGmsOVpAzU6h8sSkwt63w
+
+#EXTINF:-1 group-title="Radio bolivia ", Radio CAMARGO
+https://stream-175.zeno.fm/9mqcehnb2eruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5bXFjZWhuYjJlcnV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkptbDdrazBSU3lhMUs5ZGx1eWZUTmciLCJpYXQiOjE3NDI5MTk2NTUsImV4cCI6MTc0MjkxOTcxNX0.nwJqiGpvZt9vBs-KzKsC3ysPDfJsnUdPjSDh2-QN93Y
+
+#EXTINF:-1 group-title="Radio bolivia ", Radio QHANA
+https://cast6.asurahosting.com/proxy/radiost4/stream/1/
+
+#EXTINF:-1 group-title="Radio bolivia ", Radio SAN GRABIEL
+https://spanel.gcomstreaming.com:7004/stream/1/
+
+#EXTINF:-1 group-title="Radio bolivia ", Radio MAJESTAD
+https://stream-154.zeno.fm/qvqzs5zetwzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxdnF6czV6ZXR3enV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjRYeW84ano3UlptdVJzS3BXSm43cGciLCJpYXQiOjE3NDI5MjAyMjIsImV4cCI6MTc0MjkyMDI4Mn0.lZnDzIuUt3YZehglMsNiHQaC4lnQcBS5WrPSmcHeGkg
+
+#EXTINF:-1 group-title="Radio bolivia ", Radio SUPLENDID
+https://spanel.gcomstreaming.com:8032/stream/1/
+
+#EXTINF:-1 group-title="Radio bolivia ", Radio SONIDOS DE LA VIDA
+https://cast6.my-control-panel.com/proxy/elsonido/stream/1/
+
+#EXTINF:-1 group-title="Radio bolivia ", Radio AMBANA
+https://s02.transmissaodigital.com:7354/stream/1/
+
+#EXTINF:-1 group-title="Radio bolivia ", Radio KANTUTA
+https://eu1.serviaudio.com:10983/stream/1/
+
+#EXTINF:-1 group-title="Radio bolivia ", Radio DESEO
+https://conectperu.com/8396/stream/1/
+
+#EXTINF:-1 group-title="Radio bolivia ", Radio CATOLICA CARISMA
+https://edge02.radiohdvivo.com/stream/catolicacarisma1031
+
+#EXTINF:-1 group-title="Radio bolivia ", Radio PANAMERICANA
+https://stream-147.zeno.fm/pnwpbyfambruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwbndwYnlmYW1icnV2IiwiaG9zdCI6InN0cmVhbS0xNDcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlFxWDhNZ2RyUjRpeEJOUE9GMmZmaFEiLCJpYXQiOjE3NDI5MjA3NzIsImV4cCI6MTc0MjkyMDgzMn0.zt13Vc7defAW2RSai9sXCBD_w7f5MuPRkOqoN4VdjJ8
+
+#EXTINF:-1 group-title="Radio bolivia ", Radio RKC
+https://radio.yoemito.net:8006/stream
+
+#EXTINF:-1 group-title="Radio bolivia ", Radio HIT 99
+https://stream.creaxium.com/listen/fm_hit_99.1/stream192
+
