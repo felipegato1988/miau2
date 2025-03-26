@@ -491,3 +491,6 @@ https://sonic.paulatina.co/7062/stream/1/
 
 #EXTINF:-1 group-title="Radio Colombia ", Radio la panchagera
 https://radiolatina.info/8772/stream
+
+#EXTINF:-1 group-title="Radio costa rica ", Radio musica
+https://live.turadio.stream:7005/stream/1/
