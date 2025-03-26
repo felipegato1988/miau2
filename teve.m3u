@@ -426,3 +426,68 @@ https://stream.radioclub80.cl:8052/trancelive80.mp3
 #EXTINF:-1 group-title="Radio CHILE ", Radio austral
 https://archi-us.digitalproserver.com/austral.aac
 
+#EXTINF:-1 group-title="Radio Colombia ", Radio caracol
+https://27403.live.streamtheworld.com/CARACOL_RADIOAAC_SC
+
+#EXTINF:-1 group-title="Radio Colombia ", Radio Activa
+https://26663.live.streamtheworld.com/RADIO_ACTIVA_SC
+
+#EXTINF:-1 group-title="Radio Colombia ", Radio w radio
+https://24233.live.streamtheworld.com/WRADIO_SC
+
+#EXTINF:-1 group-title="Radio Colombia ", Radio la fm
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio/6271a4d5d206c3172f3c9a9c/632c9b23d1dcd7027f32f7fe/chunks.m3u8
+
+#EXTINF:-1 group-title="Radio Colombia ", Radio vibra
+https://27403.live.streamtheworld.com/VIBRA_SC
+
+#EXTINF:-1 group-title="Radio Colombia ", Radio tropicana
+https://playerservices.streamtheworld.com/api/livestream-redirect/TROPICANA_SC
+
+#EXTINF:-1 group-title="Radio Colombia ", Radio olimpica
+https://27443.live.streamtheworld.com/OLP_BOGOTA_SC
+
+#EXTINF:-1 group-title="Radio Colombia ", Radio LA x
+https://s5.radio.co/s980fc5249/listen
+
+#EXTINF:-1 group-title="Radio Colombia ", Radio candela
+https://24253.live.streamtheworld.com/CANDELAESTEREO_SC
+
+#EXTINF:-1 group-title="Radio Colombia ", Radio puc
+https://play14.tikast.com:22038/stream/1/
+
+#EXTINF:-1 group-title="Radio Colombia ", Radio mix
+https://27353.live.streamtheworld.com/MIX_BOGOTA_SC
+
+#EXTINF:-1 group-title="Radio Colombia ", Radio b mor
+https://streamingmediaradio.live:8086/stream/1/
+
+#EXTINF:-1 group-title="Radio Colombia ", Radio latina
+https://stream.latinastereo.com/proxy/latina/
+
+#EXTINF:-1 group-title="Radio Colombia ", Radio radial vida
+https://26283.live.streamtheworld.com/VIDA_BOGOTA_SC
+
+#EXTINF:-1 group-title="Radio Colombia ", Radio fundingue
+https://s1-ssl.vpsradio.com/listen/fundingue/radio.acc
+
+#EXTINF:-1 group-title="Radio Colombia ", Radio tiempo
+https://playerservices.streamtheworld.com/api/livestream-redirect/RT_MEDELLINAAC_SC
+
+#EXTINF:-1 group-title="Radio Colombia ", Radio barranquilla
+https://radio.yaservers.com:6060/stream/1/
+
+#EXTINF:-1 group-title="Radio Colombia ", Radio 870
+https://stream-164.zeno.fm/zznllllp06cuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6em5sbGxscDA2Y3V2IiwiaG9zdCI6InN0cmVhbS0xNjQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlVXazZXdlZ2VHQyMmlYRExmY2UzX2ciLCJpYXQiOjE3NDMwMjkxMDgsImV4cCI6MTc0MzAyOTE2OH0.XlfpceB7FKQPPdIuckvqu_M5u4Sf_v_-h48m2St51zs
+
+#EXTINF:-1 group-title="Radio Colombia ", Radio boom
+https://streamming.dobitsoluciones.com:7028/live
+
+#EXTINF:-1 group-title="Radio Colombia ", Radio la reina
+https://27443.live.streamtheworld.com/RNA_BARRANQUILLA_SC
+
+#EXTINF:-1 group-title="Radio Colombia ", Radio paulina
+https://sonic.paulatina.co/7062/stream/1/
+
+#EXTINF:-1 group-title="Radio Colombia ", Radio la panchagera
+https://radiolatina.info/8772/stream
