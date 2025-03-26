@@ -497,3 +497,6 @@ https://live.turadio.stream:7005/stream/1/
 
 #EXTINF:-1 group-title="Radio costa rica ", Radio besame
 https://27603.live.streamtheworld.com/BESAME_CR_SC
+
+#EXTINF:-1 group-title="Radio costa rica ", Radio esterio vision
+https://live.turadio.stream:9984/stream/1/
