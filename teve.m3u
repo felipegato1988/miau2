@@ -506,3 +506,51 @@ https://live.turadio.stream:9984/stream/1/
 
 #EXTINF:-1 group-title="Radio costa rica ", Radio columbia
 https://s2.radio.co/s83b86382e/listen
+
+#EXTINF:-1 group-title="Radio costa rica ", Radio monumental
+https://alba-cr-monumental-monumental.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 group-title="Radio costa rica ", Radio vida & esperanza
+https://centova.hostingtico.com:7010/stream/1/
+
+#EXTINF:-1 group-title="Radio costa rica ", Radio extra radio
+https://d30exmp0xfb5jr.cloudfront.net/index.m3u8
+
+#EXTINF:-1 group-title="Radio costa rica ", Radio la mejor
+https://alba-cr-lamejor-lamejor.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 group-title="Radio costa rica ", Radio la omega
+https://centova.hostingtico.com:7008/stream/1/
+
+#EXTINF:-1 group-title="Radio costa rica ", Radio la 2
+https://s5.radio.co/sd515b7b34/listen
+
+#EXTINF:-1 group-title="Radio costa rica ", Radio hit
+https://live.turadio.stream:7004/stream/1/
+
+#EXTINF:-1 group-title="Radio costa rica ", Radio uncion
+https://centova.hostingtico.com:7016/
+
+#EXTINF:-1 group-title="Radio costa rica ", Radio foro caribe
+https://sp.unoredcdn.net:8032/stream/1/
+
+#EXTINF:-1 group-title="Radio costa rica ", Radio momrntos reloj
+https://alba-cr-momentosreloj-momentosreloj.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 group-title="Radio costa rica ", Radio 103
+https://22963.live.streamtheworld.com/CRC_103_1AAC_SC
+
+#EXTINF:-1 group-title="Radio costa rica ", Radio 94.7
+https://24983.live.streamtheworld.com/CRC_947AAC_SC
+
+#EXTINF:-1 group-title="Radio costa rica ", Radio la caliente
+https://24083.live.streamtheworld.com/LA_CALIENTE_CR_SC
+
+#EXTINF:-1 group-title="Radio costa rica ", Radio pura vida
+https://live.turadio.stream:7008/stream/1/
+
+#EXTINF:-1 group-title="Radio costa rica ", Radio 90
+https://live.turadio.stream:9972/stream/1/
+
+#EXTINF:-1 group-title="Radio costa rica ", RADIO columbia
+https://s5.radio.co/sca838cc60/listen
