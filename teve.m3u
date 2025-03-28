@@ -15,6 +15,9 @@ https://stream-158.zeno.fm/3phhik1pblltv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI
 #EXTINF:-1 group-title="Radio Ecuador ", RADIO LOJA
 https://streaming.radioestacion4.com:8120/stream/1/
 
+#EXTINF:-1 group-title="Radio Ecuador ", RADIO VIGIA
+https://streamingecuador.net:9070/radiovigia
+
 #EXTINF:-1 group-title="Radio Ecuador ", MILENION
 https://sonic.streamseguro.com/8122/stream/1/
 
@@ -801,4 +804,18 @@ https://stream.miradio.in/proxy/mesias/stream/1/
 #EXTINF:-1 group-title="Radio EL SALVADOR ", RADIO GUAPA
 https://streaming.rcs.com.sv/proxy/guapa/stream
 
+#EXTINF:-1 group-title="Radio GUATEMALA ", RADIO VIVA
+https://stream-158.zeno.fm/uus2ugdadkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1dXMydWdkYWRraHZ2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjhrYTJjQVpfUzZ5WGtCMkVXQmlPQkEiLCJpYXQiOjE3NDMxODYzOTQsImV4cCI6MTc0MzE4NjQ1NH0.cVRQ9r6EDSTBhdoW-aAlGjNR39dMb2T7GBbv9KZrt7k
+
+#EXTINF:-1 group-title="Radio GUATEMALA ", RADIO CULTURA
+https://stream.infinityhdstream.com:7054/stream/1/
+
+#EXTINF:-1 group-title="Radio GUATEMALA ", RADIO FLIX
+https://server8.emitironline.com:18940/stream
+
+#EXTINF:-1 group-title="Radio GUATEMALA ", RADIO SONORA
+https://alba-gt-chapinradio-sonora.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 group-title="Radio GUATEMALA ", RADIO RICOSA
+https://alba-gt-chapinradio-galaxia.stream.mediatiquestream.com/index.m3u8
 
