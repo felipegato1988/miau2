@@ -3,13 +3,13 @@
 #EXTINF:-1 group-title="Radio Ecuador ",Radio Anime
 https://stream.zeno.fm/wpyct1ugdq8uv
 
-#EXTINF:-1 group-title="Radio Ecuador ",LA NUEVE
+#EXTINF:-1 group-title="Radio Ecuador ",RADIO LA NUEVE
 https://stream-175.zeno.fm/cpknd5gm8ixtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjcGtuZDVnbThpeHR2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InMycmRKWmw5VE5LeTZSWFgzTVlCZmciLCJpYXQiOjE3NDI3NjE5OTQsImV4cCI6MTc0Mjc2MjA1NH0.Z07WOdIQW5xQ7qtFpLBl2CMVHa73KqKWe2evA00Aodw
 
-#EXTINF:-1 group-title="Radio Ecuador ",boqueron
+#EXTINF:-1 group-title="Radio Ecuador ",RADIO boqueron
 https://stream.hospedandosites.com.br/8038/stream/1/
 
-#EXTINF:-1 group-title="Radio Ecuador ",la KARIÑOSA
+#EXTINF:-1 group-title="Radio Ecuador ", RADIO la KARIÑOSA
 https://stream-158.zeno.fm/3phhik1pblltv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzcGhoaWsxcGJsbHR2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik5fX2VXMGhXUTN5eTBkQzMtRmxZUXciLCJpYXQiOjE3NDMwODYyNzMsImV4cCI6MTc0MzA4NjMzM30.lshlbRuCLFjzUVL1JNDHBlUVRg4WTnfAfuXvZUCIBwc&_=0.3603443534576476
 
 #EXTINF:-1 group-title="Radio Ecuador ", RADIO LOJA
@@ -18,22 +18,25 @@ https://streaming.radioestacion4.com:8120/stream/1/
 #EXTINF:-1 group-title="Radio Ecuador ", RADIO VIGIA
 https://streamingecuador.net:9070/radiovigia
 
-#EXTINF:-1 group-title="Radio Ecuador ", MILENION
+#EXTINF:-1 group-title="Radio Ecuador ", RADIO MILENION
 https://sonic.streamseguro.com/8122/stream/1/
 
-#EXTINF:-1 group-title="Radio Ecuador ", PODER
+#EXTINF:-1 group-title="Radio Ecuador ", RADIO FRONTERA SUR
+https://radiohdstreaming.com/radio/8220/frontera
+
+#EXTINF:-1 group-title="Radio Ecuador ", RADIO PODER
 https://streamingecuador.net:7044/radiopoder
 
-#EXTINF:-1 group-title="Radio Ecuador ", KOKODRILO
+#EXTINF:-1 group-title="Radio Ecuador ", RADIO  KOKODRILO
 https://streaming.radioestacion4.com:8082/stream/1/
 
-#EXTINF:-1 group-title="Radio Ecuador ", LA ECHIZERA
+#EXTINF:-1 group-title="Radio Ecuador ",RADIO LA ECHIZERA
 https://stream-153.zeno.fm/ak78fqht0v8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhazc4ZnFodDB2OHV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImRNN2ZuVjg1U3ZlYUk0T25xOFVxY1EiLCJpYXQiOjE3NDI5MTU1NjYsImV4cCI6MTc0MjkxNTYyNn0.yy_64ts-L2BvDDzw4r3AgciRSAyZvjeNli_a1dnp_H0
 
-#EXTINF:-1 group-title="Radio Ecuador ", SUPER LASER
+#EXTINF:-1 group-title="Radio Ecuador ", RADIO SUPER LASER
 https://5cefcbf58ba2e.streamlock.net:543/superlaser/superlaser.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Radio Ecuador ", CARAVANA
+#EXTINF:-1 group-title="Radio Ecuador ", RADIO CARAVANA
 https://streamingecuador.net:9006/stream
 
 #EXTINF:-1 group-title="Radio Ecuador ", RADIO CARIAMANGA
@@ -42,10 +45,10 @@ https://sonic.streamseguro.com/8138/stream
 #EXTINF:-1 group-title="Radio Ecuador ", RADIO PROGRESO
 https://icecast.teveo.cu/XjfW7qWN
 
-#EXTINF:-1 group-title="Radio Ecuador ", ECUASUR
+#EXTINF:-1 group-title="Radio Ecuador ", RADIO ECUASUR
 https://stream.hospedandosites.com.br:8092/stream/1/
 
-#EXTINF:-1 group-title="Radio Ecuador ", LUZ Y VIDA 
+#EXTINF:-1 group-title="Radio Ecuador ", RADIO LUZ Y VIDA 
 https://sonicpanel.zonaradio.net/8248/stream/1/
 
 #EXTINF:-1 group-title="Radio Ecuador ",Radio Disney
@@ -57,10 +60,10 @@ https://s7.yesstreaming.net:8040/stream
 #EXTINF:-1 group-title="Radio Ecuador ", RADIO LATINA
 https://usa3.lhdserver.es:8087/stream
 
-#EXTINF:-1 group-title="Radio Ecuador ",La Voz del Tomebamba
+#EXTINF:-1 group-title="Radio Ecuador ",RADIO La Voz del Tomebamba
 https://streamingecuador.com:8074/lavozdeltomebamba
 
-#EXTINF:-1 group-title="Radio Ecuador ", Alfa Radio
+#EXTINF:-1 group-title="Radio Ecuador ", RADIO Alfa Radio
 https://alba-ec-alfa-alfa.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 group-title="Radio Ecuador ", Radio HJCB
