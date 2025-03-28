@@ -554,3 +554,66 @@ https://live.turadio.stream:9972/stream/1/
 
 #EXTINF:-1 group-title="Radio costa rica ", RADIO columbia
 https://s5.radio.co/sca838cc60/listen
+
+#EXTINF:-1 group-title="Radio costa rica ", RADIO IQ
+https://centova.hostingtico.com:7002/stream/
+
+#EXTINF:-1 group-title="Radio costa rica ", RADIO JAZZ
+https://streaming.radio.co/s36bd2a451/listen
+
+#EXTINF:-1 group-title="Radio costa rica ", RADIO CONEXION
+https://18543.live.streamtheworld.com/CRC_959AAC_SC
+
+#EXTINF:-1 group-title="Radio costa rica ", RADIO AZUL
+https://18543.live.streamtheworld.com/CRC_999AAC_SC
+
+#EXTINF:-1 group-title="Radio costa rica ", RADIO LIFE
+https://radio.zarza.com/proxy/life?mp=/stream/1/
+
+#EXTINF:-1 group-title="Radio costa rica ", RADIO TELETICA
+https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Radio costa rica ", RADIO ESTERIO
+https://stream.zeno.fm/q7s0apzt1p8uv
+
+#EXTINF:-1 group-title="Radio costa rica ", RADIO COLOSAL
+https://stream.zeno.fm/pp8f79bu44zuv
+
+#EXTINF:-1 group-title="Radio costa rica ", RADIO CASINO
+https://host.rowrigo.com/radio/8090/radiocasino
+
+#EXTINF:-1 group-title="Radio costa rica ", RADIO URBANO
+https://usa18.fastcast4u.com/proxy/rmoohhrw?mp=/stream/1/
+
+#EXTINF:-1 group-title="Radio costa rica ", RADIO ONDA BRAVA
+https://cast4.my-control-panel.com/proxy/ondabra3/stream
+
+#EXTINF:-1 group-title="Radio costa rica ", RADIO LIRA
+https://radiolira.ice.infomaniak.ch/radiolira.aac
+
+#EXTINF:-1 group-title="Radio costa rica ", RADIO CRC
+https://24963.live.streamtheworld.com/CRC_89_1AAC_SC
+
+#EXTINF:-1 group-title="Radio CUBA ", RADIO REBELDE
+https://icecast.teveo.cu/kHKL7tWd
+
+#EXTINF:-1 group-title="Radio CUBA ", RADIO TAIN
+https://icecast.teveo.cu/3MCwWg3V
+
+#EXTINF:-1 group-title="Radio CUBA ", RADIO ENCICLOPEDIA
+https://icecast.teveo.cu/9Rnrbjzq
+
+#EXTINF:-1 group-title="Radio CUBA ", RADIO NACIONAL
+https://icecast.teveo.cu/Nbtz7HT3
+
+#EXTINF:-1 group-title="Radio CUBA ", RADIO GRITO DE BARIE
+https://icecast.teveo.cu/PMxFRLK7
+
+#EXTINF:-1 group-title="Radio CUBA ", RADIO MARTI
+https://n0e.radiojar.com/3ds9yqpgq3quv?rj-ttl=5&rj-tok=AAABldkV6voAOgU2L69uM-bTJg
+
+#EXTINF:-1 group-title="Radio CUBA ", RADIO SALSA MIANIA
+https://stream2.rcast.net/60446
+
+#EXTINF:-1 group-title="Radio CUBA ", RADIO TU ZONA MUSICAL
+https://radiomachado.com/radio/8000/radio.mp3
