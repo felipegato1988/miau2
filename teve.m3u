@@ -1230,3 +1230,83 @@ https://cp9.serverse.com/proxy/concertfm/stream
 #EXTINF:-1 group-title="Radio PARAGUAY",  RADIO PALMA
 https://mdstrm.com/audio/62d81d48f5ef320830c8becf/live.m3u8
 
+#EXTINF:-1 group-title="Radio PERU",  RADIO RITMO ROMANTICO
+https://24973.live.streamtheworld.com/CRP_RIT_SC?csegid=20001&dist=20001&ttag=20001
+
+#EXTINF:-1 group-title="Radio PERU",  RADIO MODA
+https://16643.live.streamtheworld.com/CRP_MOD_SC?csegid=20001&dist=20001&ttag=20001
+
+#EXTINF:-1 group-title="Radio PERU",  RADIO LA ZONA
+https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio
+
+#EXTINF:-1 group-title="Radio PERU",  RADIO LA EXITOSA
+https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561
+
+#EXTINF:-1 group-title="Radio PERU",  RADIO PLANETA
+https://20593.live.streamtheworld.com/CRP_PLA_SC?csegid=20001&dist=20001&ttag=20001
+
+#EXTINF:-1 group-title="Radio PERU",  RADIO LA KARIBEÑA
+https://karibena.egostreaming.pe/radio/6898b6e52d9e088a6de159/
+
+#EXTINF:-1 group-title="Radio PERU",  RADIO RADIOMAR
+https://24863.live.streamtheworld.com/CRP_MAR_SC?csegid=20001&dist=20001&ttag=20001
+
+#EXTINF:-1 group-title="Radio PERU",  RADIO LA KALLE
+https://lakalle.egostreaming.pe/radio/a7b9c3e4567f8d0123456789/
+
+#EXTINF:-1 group-title="Radio PERU",  RADIO MEGA MIX
+https://mdstrm.com/audio/5fada56fe4e09508207a7951/live.m3u8
+
+#EXTINF:-1 group-title="Radio PERU",  RADIO INOLVIDABLE
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_LI_SC?csegid=20001&dist=20001&ttag=20001
+
+#EXTINF:-1 group-title="Radio PERU",  RADIO VIVA
+https://tupanel.info:8780//stream
+
+#EXTINF:-1 group-title="Radio PERU",  RADIO MAGICA
+https://14093.live.streamtheworld.com/MAG_SC?csegid=20001&dist=20001&ttag=20001
+
+#EXTINF:-1 group-title="Radio PERU",  RADIO NUEVO TIEMPO
+https://stream.live.novotempo.com/radio/smil:radionuevotiempo.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Radio PERU",  RADIO PERU CUMBIA
+https://servistream.info:8330/stream/1/
+
+#EXTINF:-1 group-title="Radio PERU",  RADIO OVACION
+https://5c3fb01839654.streamlock.net:1963/ipradioovacion1/liveovacion1radio/playlist.m3u8
+
+#EXTINF:-1 group-title="Radio PERU",  RADIO ONU
+https://stream2.eistreaming.com:10995/stream/1/
+
+#EXTINF:-1 group-title="Radio PERU",  RADIO FOLK
+https://raymistream.net/listen/perufolkradio/live
+
+#EXTINF:-1 group-title="Radio PERU",  RADIO ANTENA SUR
+https://stream-156.zeno.fm/tu63bf6g31zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0dTYzYmY2ZzMxenV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImdvZjFMTVJtUzJtSTRScnRBSFBKSmciLCJpYXQiOjE3NDMyODUyMjgsImV4cCI6MTc0MzI4NTI4OH0.Gm6xfRYqA4Gg4x0hR8uHvweEzNCcFj4EQ-16yGgqXvw
+
+#EXTINF:-1 group-title="Radio PERU",  RADIO BETHEL
+https://alfa.betheltv.tv/radiobethel/1/icecast.audio
+
+#EXTINF:-1 group-title="Radio PERU",  RADIO INCA SAL
+https://22973.live.streamtheworld.com/CRP_INC_SC
+
+#EXTINF:-1 group-title="Radio PERU",  RADIO NOVA
+https://panel.innovatestream.pe:10989/stream/1/
+
+#EXTINF:-1 group-title="Radio PERU",  RADIO RRI
+https://dattavolt.com/8164/stream
+
+#EXTINF:-1 group-title="Radio PERU",  RADIO MARAÑON
+https://panel.innovatestream.pe:10976/stream/1/
+
+#EXTINF:-1 group-title="Radio PERU",  RADIO MATUCANA
+https://radio.transmite.pe/9316/stream/1/
+
+#EXTINF:-1 group-title="Radio PERU",  RADIO TURBO MIX
+https://panel.innovatestream.pe:10998/stream/1/
+
+#EXTINF:-1 group-title="Radio PERU",  RADIO TURBO MIX
+https://panel.innovatestream.pe:10998/stream/1/
+
+
+
