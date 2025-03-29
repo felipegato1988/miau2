@@ -1002,6 +1002,12 @@ https://s.emisoras.tv:2020/stream/metro/stream/1/
 #EXTINF:-1 group-title="Radio HONDURAS ", RADIO ESTERIO CLASICA
 https://streaming.radio.co/s0c06b7076/listen
 
+#EXTINF:-1 group-title="Radio MEXICO ", RADIO AMOR
+https://25053.live.streamtheworld.com/XHSHFM_SC
+
+#EXTINF:-1 group-title="Radio MEXICO ", RADIO MVS
+https://20593.live.streamtheworld.com/XHMVSFM_SC
+
 
 
 
