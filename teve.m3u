@@ -1388,3 +1388,24 @@ https://us1.streamingpulse.com/ssl/X61Radio
 
 #EXTINF:-1 group-title="Radio PUERTO RICO",  RADIO ALLEGRO
 https://streamwipr.pr/fm.aac
+
+#EXTINF:-1 group-title="Radio URUGAY",  RADIO AZUL
+https://azul-1.nty.uy/
+
+#EXTINF:-1 group-title="Radio URUGAY",  RADIO OCEANO
+https://oceano-2.nty.uy/
+
+#EXTINF:-1 group-title="Radio URUGAY",  RADIO ESPECTADOR
+https://espectador-1.nty.uy/
+
+#EXTINF:-1 group-title="Radio URUGAY",  RADIO METROPOLIS
+https://metropolis-web-1.nty.uy/
+
+#EXTINF:-1 group-title="Radio URUGAY",  RADIO SPORT
+https://alba-uy-sport890-sport890.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 group-title="Radio URUGAY",  RADIO AIRE
+https://airefm-1.nty.uy/:8030/
+
+#EXTINF:-1 group-title="Radio URUGAY",  RADIO DEL PLATA
+https://alba-uy-delplata-delplata.stream.mediatiquestream.com/index.m3u8
