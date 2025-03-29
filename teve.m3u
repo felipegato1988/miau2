@@ -1329,5 +1329,62 @@ https://liveaudio.lamusica.com/PR_WODA_icy
 #EXTINF:-1 group-title="Radio PUERTO RICO",  RADIO SALSOUL
 https://server20.servistreaming.com:9023/stream
 
-#EXTINF:-1 group-title="Radio PUERTO RICO",  RADIO ESTEREO TEMPO
-https://liveaudio.lamusica.com/PR_WRXD_icy
+#EXTINF:-1 group-title="Radio PUERTO RICO",  RADIO RENACER
+https://sp.unoredcdn.net/8150/stream
+
+#EXTINF:-1 group-title="Radio PUERTO RICO",  RADIO RENACER
+https://sp.unoredcdn.net/8150/stream
+
+#EXTINF:-1 group-title="Radio PUERTO RICO",  RADIO INSPIRA
+https://stream.aiir.com/rublzaim1cyvv
+
+#EXTINF:-1 group-title="Radio PUERTO RICO",  RADIO ALFARO
+https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8
+
+#EXTINF:-1 group-title="Radio PUERTO RICO",  RADIO X LEVEL
+https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
+
+#EXTINF:-1 group-title="Radio PUERTO RICO",  RADIO CATOLICA
+https://live.turadio.stream:7017/catolicaradiopr
+
+#EXTINF:-1 group-title="Radio PUERTO RICO",  RADIO LA ESTACION DE LA FAMILIA
+https://stream.tuenlacecristiano.com:8108/stream
+
+#EXTINF:-1 group-title="Radio PUERTO RICO",  RADIO WAPA
+https://livestreamcdn.net:2000/stream/waparadio
+
+#EXTINF:-1 group-title="Radio PUERTO RICO",  RADIO VICTORIA
+https://server7.servistreaming.com/proxy/historia840?mp=/stream/1/
+
+#EXTINF:-1 group-title="Radio PUERTO RICO",  RADIO MARANATHA
+https://stream-157.zeno.fm/8h1fp5vzmtwtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4aDFmcDV2em10d3R2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImxKMGN3TXZzUlBDRFFsU1JseUY0SFEiLCJpYXQiOjE3NDMyODg4ODUsImV4cCI6MTc0MzI4ODk0NX0.bLlEbpTj7lzi5cReVfKSWVoBqBoZk_P_KWXnQVyvFSw
+
+#EXTINF:-1 group-title="Radio PUERTO RICO",  RADIO ONCE
+https://stream-175.zeno.fm/gw0kpk6wt4zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJndzBrcGs2d3Q0enV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImV5c1hvRVl4UjhxV1E5cktmUGNYMVEiLCJpYXQiOjE3NDMyODg5MzgsImV4cCI6MTc0MzI4ODk5OH0.0jVh9u9ymJ18mJu6BdLrE8MZ28zUe-LzF9sJfIGhhus
+
+#EXTINF:-1 group-title="Radio PUERTO RICO",  RADIO PARAISO
+https://stream.eleden.com:8240/wtpm.aac
+
+#EXTINF:-1 group-title="Radio PUERTO RICO",  RADIO CIMA
+https://stream.eleden.com:8262/rcima.aac
+
+#EXTINF:-1 group-title="Radio PUERTO RICO",  RADIO WIPR
+https://streamwipr.pr/hls/stream/1_2/index.m3u8
+
+#EXTINF:-1 group-title="Radio PUERTO RICO",  RADIO HOT 102
+https://server7.servistreaming.com/proxy/hotaac?mp=/stream
+
+#EXTINF:-1 group-title="Radio PUERTO RICO",  RADIO WZOL
+https://stream.eleden.com/wzol.aac/wzol.aac.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Radio PUERTO RICO",  RADIO X94
+https://securestreams6.autopo.st:2128/stream/1/
+
+#EXTINF:-1 group-title="Radio PUERTO RICO",  RADIO PROCER
+https://sp.unoredcdn.net:8050/stream/1/
+
+#EXTINF:-1 group-title="Radio PUERTO RICO",  RADIO X61
+https://us1.streamingpulse.com/ssl/X61Radio
+
+#EXTINF:-1 group-title="Radio PUERTO RICO",  RADIO ALLEGRO
+https://streamwipr.pr/fm.aac
