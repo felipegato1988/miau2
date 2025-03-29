@@ -1308,5 +1308,26 @@ https://panel.innovatestream.pe:10998/stream/1/
 #EXTINF:-1 group-title="Radio PERU",  RADIO COMAS
 https://tupanel.info:7390/stream/1/
 
+#EXTINF:-1 group-title="Radio PUERTO RICO",  RADIO NOTI UNO
+https://server20.servistreaming.com:9022/stream
 
+#EXTINF:-1 group-title="Radio PUERTO RICO",  RADIO MEGA
+https://liveaudio.lamusica.com/PR_WMEG_icy
 
+#EXTINF:-1 group-title="Radio PUERTO RICO",  RADIO NUEVA VIDA
+https://stream-160.zeno.fm/qgkv1nzpc84tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxZ2t2MW56cGM4NHR2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImNwZVk4ZkZUUWNPUHd5NlkzWmhTbXciLCJpYXQiOjE3NDMyODU5NzIsImV4cCI6MTc0MzI4NjAzMn0.OTJRZ_GqEFZMsrXzR87p4dVXAm_PoCVkVOIyTzGa-Do
+
+#EXTINF:-1 group-title="Radio PUERTO RICO",  RADIO Z
+https://liveaudio.lamusica.com/PR_WZNT_icy
+
+#EXTINF:-1 group-title="Radio PUERTO RICO",  RADIO REDENTOR
+https://livestreamcdn.net:2000/stream/Redentor104.1FM/stream
+
+#EXTINF:-1 group-title="Radio PUERTO RICO",  RADIO LA NUEVA
+https://liveaudio.lamusica.com/PR_WODA_icy
+
+#EXTINF:-1 group-title="Radio PUERTO RICO",  RADIO SALSOUL
+https://server20.servistreaming.com:9023/stream
+
+#EXTINF:-1 group-title="Radio PUERTO RICO",  RADIO ESTEREO TEMPO
+https://liveaudio.lamusica.com/PR_WRXD_icy
