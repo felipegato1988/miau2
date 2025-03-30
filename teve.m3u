@@ -21,6 +21,9 @@ https://sonic.streamseguro.com/8138/stream
 #EXTINF:-1 group-title="Radio Ecuador ", RADIO VIGIA
 https://streamingecuador.net:9070/radiovigia
 
+#EXTINF:-1 group-title="Radio Ecuador ", RADIO ESTERIO MACARA
+https://sonic.streamseguro.com/8160/stream
+
 #EXTINF:-1 group-title="Radio Ecuador ", RADIO CRISTAL
 https://radiocristal.makrodigital.com/stream/radiocristal
 
