@@ -1560,7 +1560,47 @@ https://guri.tepuyserver.net/8140/stream/1/
 #EXTINF:-1 group-title="Radio VENEZUELA", RADIO NOESFM
 https://noesfm.radioca.st/stream/1/
 
+#EXTINF:-1 group-title="Radio ESPAÑA", RADIO CADENA DIAL
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIALAAC_SC
 
+#EXTINF:-1 group-title="Radio ESPAÑA", RADIO FLAIX
+https://stream.flaixfm.cat/icecast
 
+#EXTINF:-1 group-title="Radio ESPAÑA", RADIO CADENA SER
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_SC
 
+#EXTINF:-1 group-title="Radio ESPAÑA", RADIO OLE
+https://29083.live.streamtheworld.com/RADIOLE_ASO_COSTA_LUZ_SC
 
+#EXTINF:-1 group-title="Radio ESPAÑA", RADIO ONDACERO
+https://atres-live.ondacero.es/live/ondacero/bitrate_1.m3u8
+
+#EXTINF:-1 group-title="Radio ESPAÑA", RADIO 3
+https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r3_main.m3u8
+
+#EXTINF:-1 group-title="Radio ESPAÑA", RADIO RAC 105
+https://28573.live.streamtheworld.com/RAC105_SC
+
+#EXTINF:-1 group-title="Radio ESPAÑA", RADIO CATALUNYA
+https://directes-radio-int.3catdirectes.cat/live-content/catalunya-radio-hls/master.m3u8
+
+#EXTINF:-1 group-title="Radio ESPAÑA", RADIO NACIONAL
+https://28503.live.streamtheworld.com/RADIOMARCA_NACIONAL_SC
+
+#EXTINF:-1 group-title="Radio ESPAÑA", RADIO RNE5
+https://f141.rndfnk.com/star/crtve/rne5/main/mp3/128/stream.mp3?aggregator=tunein&cid=01GEP4MW5CAHPYP1EXHVKWFJ8W&sid=2v3JOAbjVHCFp0rGp2zVeQhT87s&token=n4ggI6sTfky4znU2y0Tx2if3wlZhitj6BVbAkgzxyB8&tvf=wuImyGnDMRhmMTQxLnJuZGZuay5jb20
+
+#EXTINF:-1 group-title="Radio ESPAÑA", RADIO SPEKTRA
+https://stm2.emiteonline.com:9008/spektrafm
+
+#EXTINF:-1 group-title="Radio ESPAÑA", RADIO SEVILLA
+https://25483.live.streamtheworld.com/SER_SEVILLA_SC
+
+#EXTINF:-1 group-title="Radio ESPAÑA", RADIO INTERECONOMIA
+https://intereconomia.emitironline.com/
+
+#EXTINF:-1 group-title="Radio ESPAÑA", RADIO ARAGON
+https://cartv.streaming.aranova.es/hls/live/aragonradio_aragonradio1.m3u8
+
+#EXTINF:-1 group-title="Radio ESPAÑA", RADIO MEGASTAR
+https://megastar-cope.flumotion.com/chunks.m3u8
