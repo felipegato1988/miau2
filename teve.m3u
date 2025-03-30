@@ -1458,9 +1458,23 @@ https://radios.iwstreaming.uy/8030/stream
 #EXTINF:-1 group-title="Radio URUGAY",  RADIO CLARIN
 https://radioclarin-zikoxweb.radioca.st/stream/1/
 
-#EXTINF:-1 group-title="Radio URUGAY",  RADIO INOLVIDblE
-https://inolvidable-2.nty.uy/
+#EXTINF:-1 group-title="Radio URUGAY",  RADIO LA R
+https://la1410-2.nty.uy/:8060/
 
+#EXTINF:-1 group-title="Radio URUGAY",  RADIO LA ARAPEY
+https://hmdsystem.info:8150/arapey
+
+#EXTINF:-1 group-title="Radio URUGAY",  RADIO ZORRILLA
+https://server-usa2.radioseninternet.net/9312/stream/1/
+
+#EXTINF:-1 group-title="Radio URUGAY",  RADIO EXITO
+https://salida.stream.com.uy:8506/stream
+
+#EXTINF:-1 group-title="Radio URUGAY",  RADIO CLASICA
+https://radios.iwstreaming.uy/8032/stream
+
+#EXTINF:-1 group-title="Radio URUGAY",  RADIO SUR FM
+https://dattavolt.com/8268/stream
 
 
 
