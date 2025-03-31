@@ -27,8 +27,14 @@ https://sonic.streamseguro.com/8160/stream
 #EXTINF:-1 group-title="Radio Ecuador ", RADIO CRISTAL
 https://radiocristal.makrodigital.com/stream/radiocristal
 
+#EXTINF:-1 group-title="Radio Ecuador ", RADIO MACHALA
+https://sv2.globalhostlive.com/proxy/machala/live
+
 #EXTINF:-1 group-title="Radio Ecuador ", RADIO AMAZONAS
 https://dattavolt.com/8346/stream
+
+#EXTINF:-1 group-title="Radio Ecuador ", RADIO BACANISIMA
+https://radio.labacanisimadelecuador.es/8016/stream
 
 #EXTINF:-1 group-title="Radio Ecuador ", RADIO MILENION
 https://sonic.streamseguro.com/8122/stream/1/
