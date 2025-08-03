@@ -18,8 +18,7 @@ https://streamingecuador.net:9006/stream?1751216968832
 #EXTINF:-1 group-title="Radio Ecuador ",Radio SAB ANTONIO
 https://sonicpanel.zonaradio.net/8266/stream
 
-#EXTINF:-1 group-title="Radio Ecuador ",Radio ecuatoriano
-https://cloudstream2032.conectarhosting.com/8108/stream?1751217024531
+
 
 #EXTINF:-1 group-title="Radio Ecuador ",Radio universitaria
 https://radio.cedia.org.ec/unl-radio
@@ -54,8 +53,7 @@ https://streamingecuador.net:8076/radiosucre
 #EXTINF:-1 group-title="Radio Ecuador ", RADIO MACHALA
 https://sv2.globalhostlive.com/proxy/machala/live
 
-#EXTINF:-1 group-title="Radio Ecuador ", RADIO centinbela
-https://cloudstream2032.conectarhosting.com/8108/stream?1751216678672
+
 
 #EXTINF:-1 group-title="Radio Ecuador ", RADIO AMAZONAS
 https://dattavolt.com/8346/stream
@@ -66,11 +64,9 @@ https://radio.labacanisimadelecuador.es/8016/stream
 #EXTINF:-1 group-title="Radio Ecuador ", RADIO MILENION
 https://sonic.streamseguro.com/8122/stream/1/
 
-#EXTINF:-1 group-title="Radio Ecuador ", RADIO FRONTERA SUR
-https://radiohdstreaming.com/radio/8220/frontera
 
-#EXTINF:-1 group-title="Radio Ecuador ", RADIO LA VOZ DE GALAPAGOS
-https://server01.heplayer.com/9730/
+
+
 
 #EXTINF:-1 group-title="Radio Ecuador ", RADIO PODER
 https://streamingecuador.net:7044/radiopoder
@@ -153,8 +149,6 @@ https://alba-ec-lametro-lametro.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 group-title="Radio Ecuador ", Radio fm Mundo
 https://streamingecuador.net:8066/fmmundo
 
-#EXTINF:-1 group-title="Radio Ecuador ", Radio k1
-https://streamingecuador.com:8000/radiok1
 
 #EXTINF:-1 group-title="Radio Ecuador ", Radio Sonorama
 https://radio.kapchosting.com/8080/stream/1/
@@ -204,11 +198,8 @@ https://grupomundodigital.com:8580/stream
 #EXTINF:-1 group-title="Radio Ecuador ", Radio Ambato
 https://rr5100.globalhost1.com/8140/stream/1/
 
-#EXTINF:-1 group-title="Radio Argentina ", Radio Los 40
-https://alpha.radioplayer.com.ar/stream/los40
 
-#EXTINF:-1 group-title="Radio Argentina ", Radio R10
-https://radio10.stweb.tv/radio10/live/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Radio Argentina ", Radio Mega 98.3
 https://mega.stweb.tv/mega983/live/playlist.m3u8
@@ -216,8 +207,7 @@ https://mega.stweb.tv/mega983/live/playlist.m3u8
 #EXTINF:-1 group-title="Radio Argentina ", Radio rock & pop
 https://17993.live.streamtheworld.com/ROCKANDPOP_SC
 
-#EXTINF:-1 group-title="Radio Argentina ", Radio Vorterix
-https://ice2.edge-apps.net/radio1_high-20057.audio
+
 
 #EXTINF:-1 group-title="Radio Argentina ", Radio aspen
 https://27383.live.streamtheworld.com/ASPEN_SC
@@ -237,8 +227,6 @@ https://streaming450tb.locucionar.com/proxy/fmvida979?mp=/stream
 #EXTINF:-1 group-title="Radio Argentina ", Radio nacional
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad1
 
-#EXTINF:-1 group-title="Radio Argentina ", Radio Am910
-https://27323.live.streamtheworld.com/LA_RED_AM910AAC_SC
 
 #EXTINF:-1 group-title="Radio Argentina ", Radio C3
 https://26523.live.streamtheworld.com/RADIO3_SC
@@ -246,8 +234,7 @@ https://26523.live.streamtheworld.com/RADIO3_SC
 #EXTINF:-1 group-title="Radio Argentina ", Radio RIVADAVIA
 https://24283.live.streamtheworld.com/RIVADAVIA_SC
 
-#EXTINF:-1 group-title="Radio Argentina ", Radio Continental
-https://edge04.radiohdvivo.com/stream/continental
+
 
 #EXTINF:-1 group-title="Radio Argentina ", Radio HEAT_SC
 https://26583.live.streamtheworld.com/CADENAHEAT_SC
@@ -300,8 +287,7 @@ https://27373.live.streamtheworld.com/MUCHA_RADIO_SC
 #EXTINF:-1 group-title="Radio Argentina ", Radio nacional clasica
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad37
 
-#EXTINF:-1 group-title="Radio Argentina ", Radio fonica
-https://radio02.ferozo.com/proxy/ra02000290?mp=/stream/1/
+
 
 #EXTINF:-1 group-title="Radio Argentina ", Radio el mundo
 https://streaming.escuchanosonline.com:7118/stream/1/
@@ -1599,4 +1585,5 @@ https://cartv.streaming.aranova.es/hls/live/aragonradio_aragonradio1.m3u8
 
 #EXTINF:-1 group-title="Radio ESPAÑA", RADIO MEGASTAR
 https://megastar-cope.flumotion.com/chunks.m3u8
+
 
