@@ -1368,216 +1368,217 @@ https://us1.streamingpulse.com/ssl/X61Radio
 #EXTINF:-1 group-title="Radio PUERTO RICO", [PUERTO RICO]  RADIO ALLEGRO
 https://streamwipr.pr/fm.aac
 
-#EXTINF:-1 group-title="Radio URUGAY",  RADIO AZUL
+#EXTINF:-1 group-title="Radio URUGAY", [URUGAY]  RADIO AZUL
 https://azul-1.nty.uy/
 
-#EXTINF:-1 group-title="Radio URUGAY",  RADIO OCEANO
+#EXTINF:-1 group-title="Radio URUGAY", [URUGAY]  RADIO OCEANO
 https://oceano-2.nty.uy/
 
-#EXTINF:-1 group-title="Radio URUGAY",  RADIO ESPECTADOR
+#EXTINF:-1 group-title="Radio URUGAY", [URUGAY]  RADIO ESPECTADOR
 https://espectador-1.nty.uy/
 
-#EXTINF:-1 group-title="Radio URUGAY",  RADIO METROPOLIS
+#EXTINF:-1 group-title="Radio URUGAY",  [URUGAY] RADIO METROPOLIS
 https://metropolis-web-1.nty.uy/
 
-#EXTINF:-1 group-title="Radio URUGAY",  RADIO SPORT
+#EXTINF:-1 group-title="Radio URUGAY", [URUGAY]  RADIO SPORT
 https://alba-uy-sport890-sport890.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 group-title="Radio URUGAY",  RADIO AIRE
+#EXTINF:-1 group-title="Radio URUGAY", [URUGAY]  RADIO AIRE
 https://airefm-1.nty.uy/:8030/
 
-#EXTINF:-1 group-title="Radio URUGAY",  RADIO DEL PLATA
+#EXTINF:-1 group-title="Radio URUGAY", [URUGAY]  RADIO DEL PLATA
 https://alba-uy-delplata-delplata.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 group-title="Radio URUGAY",  RADIO universal
+#EXTINF:-1 group-title="Radio URUGAY", [URUGAY]  RADIO universal
 https://970universal-3.nty.uy/
 
-#EXTINF:-1 group-title="Radio URUGAY",  RADIO DEL SOL 
+#EXTINF:-1 group-title="Radio URUGAY",  [URUGAY] RADIO DEL SOL 
 https://delsol-2.nty.uy/
 
-#EXTINF:-1 group-title="Radio URUGAY",  RADIO FUTURA
+#EXTINF:-1 group-title="Radio URUGAY",  [URUGAY] RADIO FUTURA
 https://alba-uy-radiofutura-futura.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 group-title="Radio URUGAY",  RADIO ALFA
+#EXTINF:-1 group-title="Radio URUGAY", [URUGAY]  RADIO ALFA
 https://rfm.radio.netgate.com.uy:8443/alfafm
 
-#EXTINF:-1 group-title="Radio URUGAY",  RADIO ALFA
+#EXTINF:-1 group-title="Radio URUGAY", [URUGAY]  RADIO ALFA
 https://rfm.radio.netgate.com.uy:8443/alfafm
 
-#EXTINF:-1 group-title="Radio URUGAY",  RADIO SARANDI
+#EXTINF:-1 group-title="Radio URUGAY",  [URUGAY] RADIO SARANDI
 https://alba-uy-sarandi-sarandi.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 group-title="Radio URUGAY",  RADIO RURAL
+#EXTINF:-1 group-title="Radio URUGAY", [URUGAY]  RADIO RURAL
 https://radiolatina.live/9206/stream/1/
 
-#EXTINF:-1 group-title="Radio URUGAY",  RADIO M24
+#EXTINF:-1 group-title="Radio URUGAY", [URUGAY]  RADIO M24
 https://streaming1.hostingmontevideo.com:7016/stream/1/
 
-#EXTINF:-1 group-title="Radio URUGAY",  RADIO LA COSTA
+#EXTINF:-1 group-title="Radio URUGAY", [URUGAY]  RADIO LA COSTA
 https://lacostafm-2.nty.uy/
 
-#EXTINF:-1 group-title="Radio URUGAY",  RADIO ASPEN
+#EXTINF:-1 group-title="Radio URUGAY",  [URUGAY] RADIO ASPEN
 https://streaming2.hostingmontevideo.com:7010/stream/1/
 
-#EXTINF:-1 group-title="Radio URUGAY",  RADIO ORIENTAL
+#EXTINF:-1 group-title="Radio URUGAY", [URUGAY]  RADIO ORIENTAL
 https://radiolatina.live/7906/stream/1/
 
-#EXTINF:-1 group-title="Radio URUGAY",  RADIO COLONIA
+#EXTINF:-1 group-title="Radio URUGAY",[URUGAY]   RADIO COLONIA
 https://26563.live.streamtheworld.com/COLONIA_ADP_SC
 
-#EXTINF:-1 group-title="Radio URUGAY",  RADIO CENTENAR
+#EXTINF:-1 group-title="Radio URUGAY",  [URUGAY] RADIO CENTENAR
 https://rfm.radio.netgate.com.uy:8443/centenario
 
-#EXTINF:-1 group-title="Radio URUGAY",  RADIO EMISORA del sur
+#EXTINF:-1 group-title="Radio URUGAY", [URUGAY]  RADIO EMISORA del sur
 https://radios.iwstreaming.uy/8034/stream
 
-#EXTINF:-1 group-title="Radio URUGAY",  RADIO BABEL
+#EXTINF:-1 group-title="Radio URUGAY",  [URUGAY] RADIO BABEL
 https://radios.iwstreaming.uy/8030/stream
 
-#EXTINF:-1 group-title="Radio URUGAY",  RADIO CLARIN
+#EXTINF:-1 group-title="Radio URUGAY", [URUGAY]  RADIO CLARIN
 https://radioclarin-zikoxweb.radioca.st/stream/1/
 
-#EXTINF:-1 group-title="Radio URUGAY",  RADIO LA R
+#EXTINF:-1 group-title="Radio URUGAY", [URUGAY]  RADIO LA R
 https://la1410-2.nty.uy/:8060/
 
-#EXTINF:-1 group-title="Radio URUGAY",  RADIO LA ARAPEY
+#EXTINF:-1 group-title="Radio URUGAY",  [URUGAY] RADIO LA ARAPEY
 https://hmdsystem.info:8150/arapey
 
-#EXTINF:-1 group-title="Radio URUGAY",  RADIO ZORRILLA
+#EXTINF:-1 group-title="Radio URUGAY",  [URUGAY] RADIO ZORRILLA
 https://server-usa2.radioseninternet.net/9312/stream/1/
 
-#EXTINF:-1 group-title="Radio URUGAY",  RADIO EXITO
+#EXTINF:-1 group-title="Radio URUGAY", [URUGAY]  RADIO EXITO
 https://salida.stream.com.uy:8506/stream
 
-#EXTINF:-1 group-title="Radio URUGAY",  RADIO CLASICA
+#EXTINF:-1 group-title="Radio URUGAY",[URUGAY]   RADIO CLASICA
 https://radios.iwstreaming.uy/8032/stream
 
-#EXTINF:-1 group-title="Radio URUGAY",  RADIO SUR FM
+#EXTINF:-1 group-title="Radio URUGAY",[URUGAY]   RADIO SUR FM
 https://dattavolt.com/8268/stream
 
-#EXTINF:-1 group-title="Radio VENEZUELA", RADIO LA ROMANTICA
+#EXTINF:-1 group-title="Radio VENEZUELA",[VENEZUELA]  RADIO LA ROMANTICA
 https://server6.globalhostla.com:8068/stream
 
-#EXTINF:-1 group-title="Radio VENEZUELA", RADIO EXITOS
+#EXTINF:-1 group-title="Radio VENEZUELA",[VENEZUELA]  RADIO EXITOS
 https://acp4.lorini.net/proxy/ur2070?mp=/stream
 
-#EXTINF:-1 group-title="Radio VENEZUELA", RADIO FIESTA LATINA
+#EXTINF:-1 group-title="Radio VENEZUELA",[VENEZUELA]  RADIO FIESTA LATINA
 https://stream.zeno.fm/e2kzfpr34d0uv
 
-#EXTINF:-1 group-title="Radio VENEZUELA", RADIO UNION
+#EXTINF:-1 group-title="Radio VENEZUELA",[VENEZUELA]  RADIO UNION
 https://acp4.lorini.net/proxy/ur2080?mp=/stream
 
-#EXTINF:-1 group-title="Radio VENEZUELA", RADIO RUMBA
+#EXTINF:-1 group-title="Radio VENEZUELA",[VENEZUELA]  RADIO RUMBA
 https://cast20.plugstreaming.com:2020/stream/r981
 
 
 
-#EXTINF:-1 group-title="Radio VENEZUELA", RADIO SUPER TRENDY
+#EXTINF:-1 group-title="Radio VENEZUELA", [VENEZUELA] RADIO SUPER TRENDY
 https://live.ajfnetwork.com.ve/musikvalencia/stream/1/
 
-#EXTINF:-1 group-title="Radio VENEZUELA", RADIO TAMA STERIO
+#EXTINF:-1 group-title="Radio VENEZUELA", [VENEZUELA] RADIO TAMA STERIO
 https://guri.tepuyserver.net/8457/stream/1/
 
-#EXTINF:-1 group-title="Radio VENEZUELA", RADIO BELLA
+#EXTINF:-1 group-title="Radio VENEZUELA", [VENEZUELA] RADIO BELLA
 https://server6.globalhostla.com:9380/stream
 
-#EXTINF:-1 group-title="Radio VENEZUELA", RADIO IMPRESIONANTE
+#EXTINF:-1 group-title="Radio VENEZUELA",[VENEZUELA]  RADIO IMPRESIONANTE
 https://laradiossl.online:10489/stream/1/
 
-#EXTINF:-1 group-title="Radio VENEZUELA", RADIO RADIOCANAL
+#EXTINF:-1 group-title="Radio VENEZUELA", [VENEZUELA] RADIO RADIOCANAL
 https://server6.globalhostla.com:9098/stream
 
-#EXTINF:-1 group-title="Radio VENEZUELA", RADIO GLOBOVISION
+#EXTINF:-1 group-title="Radio VENEZUELA",[VENEZUELA]  RADIO GLOBOVISION
 https://server6.globalhostla.com:9166/stream
 
-#EXTINF:-1 group-title="Radio VENEZUELA", RADIO HOT
+#EXTINF:-1 group-title="Radio VENEZUELA",[VENEZUELA]  RADIO HOT
 https://server6.globalhostla.com:9016/stream
 
-#EXTINF:-1 group-title="Radio VENEZUELA", RADIO RUMBOS
+#EXTINF:-1 group-title="Radio VENEZUELA",[VENEZUELA]  RADIO RUMBOS
 https://stream-158.zeno.fm/c3q3w8zfe18uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjM3Ezdzh6ZmUxOHV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik9BR1BvMHhxUnd5V1hzQ1I5dEZ1Y1EiLCJpYXQiOjE3NDMzNjYwNDIsImV4cCI6MTc0MzM2NjEwMn0.afBekbRbv-nTCnB75lqsdjIEXjx5QC0v-L7m8IZ0xcw
 
-#EXTINF:-1 group-title="Radio VENEZUELA", RADIO RADIORAMA
+#EXTINF:-1 group-title="Radio VENEZUELA",[VENEZUELA]  RADIO RADIORAMA
 https://acp2.lorini.net:44002/stream
 
 
 
-#EXTINF:-1 group-title="Radio VENEZUELA", RADIO POP
+#EXTINF:-1 group-title="Radio VENEZUELA",[VENEZUELA]  RADIO POP
 https://stream-160.zeno.fm/h1vnadktvchvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJoMXZuYWRrdHZjaHZ2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ikx5VzdUYndZVG1PNWQtQkNfX2l5eWciLCJpYXQiOjE3NDMzNjYxODYsImV4cCI6MTc0MzM2NjI0Nn0.y-GYmpNxus235_MeS96UnJepIMJBup-qvZRdqxrBBRk
 
-#EXTINF:-1 group-title="Radio VENEZUELA", RADIO X
+#EXTINF:-1 group-title="Radio VENEZUELA",[VENEZUELA]  RADIO X
 https://acp2.lorini.net:39500/stream/1/
 
-#EXTINF:-1 group-title="Radio VENEZUELA", RADIO ADULTO JOVEN
+#EXTINF:-1 group-title="Radio VENEZUELA",[VENEZUELA]  RADIO ADULTO JOVEN
 https://server6.globalhostla.com:9168/stream
 
-#EXTINF:-1 group-title="Radio VENEZUELA", RADIO WOAO
+#EXTINF:-1 group-title="Radio VENEZUELA",[VENEZUELA]  RADIO WOAO
 https://stream-159.zeno.fm/361as28sbc9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzNjFhczI4c2JjOXV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjhMRS1OLXhuU1NtOTctd0NsOVAxQUEiLCJpYXQiOjE3NDMzNjYzMDEsImV4cCI6MTc0MzM2NjM2MX0.gO0rb_MI2bxv5ryTVLq63Isfa_ZH4RDspMp99T96EXM
 
-#EXTINF:-1 group-title="Radio VENEZUELA", RADIO ADINAMICA
+#EXTINF:-1 group-title="Radio VENEZUELA",[VENEZUELA]  RADIO ADINAMICA
 https://guri.tepuyserver.net:8040/stream/1/
 
-#EXTINF:-1 group-title="Radio VENEZUELA", RADIO FESTIVA
+#EXTINF:-1 group-title="Radio VENEZUELA",[VENEZUELA]  RADIO FESTIVA
 https://acp2.lorini.net:28018/stream
 
-#EXTINF:-1 group-title="Radio VENEZUELA", RADIO CHICHIQUERERA
+#EXTINF:-1 group-title="Radio VENEZUELA", [VENEZUELA] RADIO CHICHIQUERERA
 https://server6.globalhostla.com:8098/stream
 
-#EXTINF:-1 group-title="Radio VENEZUELA", RADIO UNICA
+#EXTINF:-1 group-title="Radio VENEZUELA",[VENEZUELA]  RADIO UNICA
 https://unica-zikoxweb.radioca.st/stream/1/
 
 
 
-#EXTINF:-1 group-title="Radio VENEZUELA", RADIO PLANETA
+#EXTINF:-1 group-title="Radio VENEZUELA", [VENEZUELA] RADIO PLANETA
 https://cast10.plugstreaming.com:2000/sslstream/planetafm/stream/1/
 
 
 
-#EXTINF:-1 group-title="Radio VENEZUELA", RADIO NOESFM
+#EXTINF:-1 group-title="Radio VENEZUELA", [VENEZUELA] RADIO NOESFM
 https://noesfm.radioca.st/stream/1/
 
-#EXTINF:-1 group-title="Radio ESPAÑA", RADIO CADENA DIAL
+#EXTINF:-1 group-title="Radio ESPAÑA", [VENEZUELA] RADIO CADENA DIAL
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIALAAC_SC
 
-#EXTINF:-1 group-title="Radio ESPAÑA", RADIO FLAIX
+#EXTINF:-1 group-title="Radio ESPAÑA", [ESPAÑA] RADIO FLAIX
 https://stream.flaixfm.cat/icecast
 
-#EXTINF:-1 group-title="Radio ESPAÑA", RADIO CADENA SER
+#EXTINF:-1 group-title="Radio ESPAÑA",[ESPAÑA]  RADIO CADENA SER
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_SC
 
-#EXTINF:-1 group-title="Radio ESPAÑA", RADIO OLE
+#EXTINF:-1 group-title="Radio ESPAÑA", [ESPAÑA] RADIO OLE
 https://29083.live.streamtheworld.com/RADIOLE_ASO_COSTA_LUZ_SC
 
-#EXTINF:-1 group-title="Radio ESPAÑA", RADIO ONDACERO
+#EXTINF:-1 group-title="Radio ESPAÑA",[ESPAÑA]  RADIO ONDACERO
 https://atres-live.ondacero.es/live/ondacero/bitrate_1.m3u8
 
 
 
-#EXTINF:-1 group-title="Radio ESPAÑA", RADIO RAC 105
+#EXTINF:-1 group-title="Radio ESPAÑA", [ESPAÑA] RADIO RAC 105
 https://28573.live.streamtheworld.com/RAC105_SC
 
-#EXTINF:-1 group-title="Radio ESPAÑA", RADIO CATALUNYA
+#EXTINF:-1 group-title="Radio ESPAÑA",[ESPAÑA]  RADIO CATALUNYA
 https://directes-radio-int.3catdirectes.cat/live-content/catalunya-radio-hls/master.m3u8
 
-#EXTINF:-1 group-title="Radio ESPAÑA", RADIO NACIONAL
+#EXTINF:-1 group-title="Radio ESPAÑA",[ESPAÑA]  RADIO NACIONAL
 https://28503.live.streamtheworld.com/RADIOMARCA_NACIONAL_SC
 
-#EXTINF:-1 group-title="Radio ESPAÑA", RADIO RNE5
+#EXTINF:-1 group-title="Radio ESPAÑA", [ESPAÑA] RADIO RNE5
 https://f141.rndfnk.com/star/crtve/rne5/main/mp3/128/stream.mp3?aggregator=tunein&cid=01GEP4MW5CAHPYP1EXHVKWFJ8W&sid=2v3JOAbjVHCFp0rGp2zVeQhT87s&token=n4ggI6sTfky4znU2y0Tx2if3wlZhitj6BVbAkgzxyB8&tvf=wuImyGnDMRhmMTQxLnJuZGZuay5jb20
 
-#EXTINF:-1 group-title="Radio ESPAÑA", RADIO SPEKTRA
+#EXTINF:-1 group-title="Radio ESPAÑA",[ESPAÑA]  RADIO SPEKTRA
 https://stm2.emiteonline.com:9008/spektrafm
 
-#EXTINF:-1 group-title="Radio ESPAÑA", RADIO SEVILLA
+#EXTINF:-1 group-title="Radio ESPAÑA",[ESPAÑA]  RADIO SEVILLA
 https://25483.live.streamtheworld.com/SER_SEVILLA_SC
 
-#EXTINF:-1 group-title="Radio ESPAÑA", RADIO INTERECONOMIA
+#EXTINF:-1 group-title="Radio ESPAÑA",[ESPAÑA]  RADIO INTERECONOMIA
 https://intereconomia.emitironline.com/
 
-#EXTINF:-1 group-title="Radio ESPAÑA", RADIO ARAGON
+#EXTINF:-1 group-title="Radio ESPAÑA", [ESPAÑA] RADIO ARAGON
 https://cartv.streaming.aranova.es/hls/live/aragonradio_aragonradio1.m3u8
 
-#EXTINF:-1 group-title="Radio ESPAÑA", RADIO MEGASTAR
+#EXTINF:-1 group-title="Radio ESPAÑA", [ESPAÑA] RADIO MEGASTAR
 https://megastar-cope.flumotion.com/chunks.m3u8
+
 
 
 
