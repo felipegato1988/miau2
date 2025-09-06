@@ -1,5 +1,7 @@
 #EXTM3U
 
+==================ecuador=================
+
 #EXTINF:-1 group-title="Radio Ecuador ",[Ecuador] Radio Anime
 https://stream.zeno.fm/wpyct1ugdq8uv
 
@@ -53,8 +55,6 @@ https://streamingecuador.net:8076/radiosucre
 #EXTINF:-1 group-title="Radio Ecuador ",[Ecuador] RADIO MACHALA
 https://sv2.globalhostlive.com/proxy/machala/live
 
-
-
 #EXTINF:-1 group-title="Radio Ecuador ",[Ecuador] RADIO AMAZONAS
 https://dattavolt.com/8346/stream
 
@@ -63,10 +63,6 @@ https://radio.labacanisimadelecuador.es/8016/stream
 
 #EXTINF:-1 group-title="Radio Ecuador ",[Ecuador] RADIO MILENION
 https://sonic.streamseguro.com/8122/stream/1/
-
-
-
-
 
 #EXTINF:-1 group-title="Radio Ecuador ",[Ecuador] RADIO PODER
 https://streamingecuador.net:7044/radiopoder
@@ -149,7 +145,6 @@ https://alba-ec-lametro-lametro.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 group-title="Radio Ecuador ",[Ecuador] Radio fm Mundo
 https://streamingecuador.net:8066/fmmundo
 
-
 #EXTINF:-1 group-title="Radio Ecuador ",[Ecuador] Radio Sonorama
 https://radio.kapchosting.com/8080/stream/1/
 
@@ -198,16 +193,13 @@ https://grupomundodigital.com:8580/stream
 #EXTINF:-1 group-title="Radio Ecuador ",[Ecuador] Radio Ambato
 https://rr5100.globalhost1.com/8140/stream/1/
 
-
-
+==================Argentina=================
 
 #EXTINF:-1 group-title="Radio Argentina ",[Argentina] Radio Mega 98.3
 https://mega.stweb.tv/mega983/live/playlist.m3u8
 
 #EXTINF:-1 group-title="Radio Argentina ",[Argentina] Radio rock & pop
 https://17993.live.streamtheworld.com/ROCKANDPOP_SC
-
-
 
 #EXTINF:-1 group-title="Radio Argentina ",[Argentina] Radio aspen
 https://27383.live.streamtheworld.com/ASPEN_SC
@@ -233,8 +225,6 @@ https://26523.live.streamtheworld.com/RADIO3_SC
 
 #EXTINF:-1 group-title="Radio Argentina ",[Argentina] Radio RIVADAVIA
 https://24283.live.streamtheworld.com/RIVADAVIA_SC
-
-
 
 #EXTINF:-1 group-title="Radio Argentina ",[Argentina] Radio HEAT_SC
 https://26583.live.streamtheworld.com/CADENAHEAT_SC
@@ -287,8 +277,6 @@ https://27373.live.streamtheworld.com/MUCHA_RADIO_SC
 #EXTINF:-1 group-title="Radio Argentina ",[Argentina] Radio nacional clasica
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad37
 
-
-
 #EXTINF:-1 group-title="Radio Argentina ",[Argentina] Radio el mundo
 https://streaming.escuchanosonline.com:7118/stream/1/
 
@@ -298,19 +286,16 @@ https://cdn.instream.audio:9582/stream
 #EXTINF:-1 group-title="Radio Argentina ",[Argentina] Radio oktubre
 https://22833.live.streamtheworld.com/OKTUBRE_SC
 
+==================Bolivia=================
+
 #EXTINF:-1 group-title="Radio bolivia ",[Bolivia] Radio chatalcaya
 https://cast6.asurahosting.com/proxy/irfradio/stream/1/
 
 #EXTINF:-1 group-title="Radio bolivia ",[Bolivia] Radio 96.7
 https://spanel.gcomstreaming.com/8018/stream/1/
 
-
-
-
 #EXTINF:-1 group-title="Radio bolivia ",[Bolivia] Radio MELODIA 99.1
 https://stream.consultoradas.com/8244/stream/1/
-
-
 
 #EXTINF:-1 group-title="Radio bolivia ",[Bolivia] Radio STERIO
 https://stream.consultoradas.com/8104/stream/1/
@@ -324,12 +309,8 @@ https://streamingenbolivia.com/8002/stream/1/
 #EXTINF:-1 group-title="Radio bolivia ",[Bolivia] Radio El Deber Radio
 https://cast5.asurahosting.com/proxy/eldeberm/stream/1/
 
-
-
 #EXTINF:-1 group-title="Radio bolivia ",[Bolivia] Radio BETANIA
 https://emiteradio.com/proxy/radiobetania?mp=/stream
-
-
 
 #EXTINF:-1 group-title="Radio bolivia ",[Bolivia] Radio CLASICA
 https://live.turadiotv.com/9976/stream/1/
@@ -340,15 +321,11 @@ https://azura2.bitstreaming.net:8000/radio128.aac
 #EXTINF:-1 group-title="Radio bolivia ",[Bolivia] Radio ERBOL
 https://radio.erbol.com.bo/
 
-
-
 #EXTINF:-1 group-title="Radio bolivia ",[Bolivia] Radio WKM
 https://mdstrm.com/audio/5df7cf305396b836ef541c12/live.m3u8?partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzMTI4OTk0NSwiaXNzIjoidGlzcnYifQ.fKTxm_WBYRKfwsZdMSAnqFOPEBaVb8JjtaXvgURyEfw
 
 #EXTINF:-1 group-title="Radio bolivia ",[Bolivia] Radio MEGA DJ
 https://stream-153.zeno.fm/zyu31nv6twzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6eXUzMW52NnR3enV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImdsMXVGdlhoUzJhUHZ1cFVINk9hOFEiLCJpYXQiOjE3NDI5MTk1ODksImV4cCI6MTc0MjkxOTY0OX0.yFktoTUwLW66X1ysKEhznzsGmsOVpAzU6h8sSkwt63w
-
-
 
 #EXTINF:-1 group-title="Radio bolivia ",[Bolivia] Radio QHANA
 https://cast6.asurahosting.com/proxy/radiost4/stream/1/
@@ -374,15 +351,13 @@ https://eu1.serviaudio.com:10983/stream/1/
 #EXTINF:-1 group-title="Radio bolivia ",[Bolivia] Radio DESEO
 https://conectperu.com/8396/stream/1/
 
-
-
 #EXTINF:-1 group-title="Radio bolivia ",[Bolivia] Radio PANAMERICANA
 https://stream-147.zeno.fm/pnwpbyfambruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwbndwYnlmYW1icnV2IiwiaG9zdCI6InN0cmVhbS0xNDcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlFxWDhNZ2RyUjRpeEJOUE9GMmZmaFEiLCJpYXQiOjE3NDI5MjA3NzIsImV4cCI6MTc0MjkyMDgzMn0.zt13Vc7defAW2RSai9sXCBD_w7f5MuPRkOqoN4VdjJ8
 
-
-
 #EXTINF:-1 group-title="Radio bolivia ",[Bolivia] Radio HIT 99
 https://stream.creaxium.com/listen/fm_hit_99.1/stream192
+
+==================CHILE=================
 
 #EXTINF:-1 group-title="Radio CHILE ",[CHILE]  Radio CORAZON
 https://playerservices.streamtheworld.com/api/livestream-redirect/CORAZON_SC
@@ -459,6 +434,8 @@ https://stream.radioclub80.cl:8052/trancelive80.mp3
 #EXTINF:-1 group-title="Radio CHILE ",[CHILE]   Radio austral
 https://archi-us.digitalproserver.com/austral.aac
 
+==================Colombia=================
+
 #EXTINF:-1 group-title="Radio Colombia ",[Colombia]   Radio caracol
 https://27403.live.streamtheworld.com/CARACOL_RADIOAAC_SC
 
@@ -501,8 +478,6 @@ https://stream.latinastereo.com/proxy/latina/
 #EXTINF:-1 group-title="Radio Colombia ",[Colombia]  Radio radial vida
 https://26283.live.streamtheworld.com/VIDA_BOGOTA_SC
 
-
-
 #EXTINF:-1 group-title="Radio Colombia ",[Colombia]  Radio tiempo
 https://playerservices.streamtheworld.com/api/livestream-redirect/RT_MEDELLINAAC_SC
 
@@ -523,6 +498,8 @@ https://sonic.paulatina.co/7062/stream/1/
 
 #EXTINF:-1 group-title="Radio Colombia ",[Colombia]  Radio la panchagera
 https://radiolatina.info/8772/stream
+
+==================costa rica=================
 
 #EXTINF:-1 group-title="Radio costa rica ", [costa rica] Radio musica
 https://live.turadio.stream:7005/stream/1/
@@ -565,8 +542,6 @@ https://sp.unoredcdn.net:8032/stream/1/
 
 #EXTINF:-1 group-title="Radio costa rica ", [costa rica] Radio momrntos reloj
 https://alba-cr-momentosreloj-momentosreloj.stream.mediatiquestream.com/index.m3u8
-
-
 
 #EXTINF:-1 group-title="Radio costa rica ", [costa rica] Radio 94.7
 https://24983.live.streamtheworld.com/CRC_947AAC_SC
@@ -619,7 +594,7 @@ https://cast4.my-control-panel.com/proxy/ondabra3/stream
 #EXTINF:-1 group-title="Radio costa rica ",[costa rica]  RADIO LIRA
 https://radiolira.ice.infomaniak.ch/radiolira.aac
 
-
+==================cuba=================
 
 #EXTINF:-1 group-title="Radio CUBA ", [CUBA] RADIO REBELDE
 https://icecast.teveo.cu/kHKL7tWd
@@ -632,8 +607,6 @@ https://icecast.teveo.cu/9Rnrbjzq
 
 #EXTINF:-1 group-title="Radio CUBA ", [CUBA] RADIO NACIONAL
 https://icecast.teveo.cu/Nbtz7HT3
-
-
 
 #EXTINF:-1 group-title="Radio CUBA ", [CUBA] RADIO MARTI
 https://n0e.radiojar.com/3ds9yqpgq3quv?rj-ttl=5&rj-tok=AAABldkV6voAOgU2L69uM-bTJg
@@ -680,9 +653,7 @@ https://icecast.teveo.cu/X9XNRkW4
 #EXTINF:-1 group-title="Radio CUBA ", [CUBA] RADIO radiocubana
 https://icecast.teveo.cu/kcLKb4qv
 
-
-
-
+==================REPUBLICA DOMINICANA================
 
 #EXTINF:-1 group-title="Radio REPUBLICA DOMINICANA ",[REPUBLICA DOMINICANA]  RADIO AMANECER
 https://sp.sintonizapp.com:7003/stream/1/
@@ -690,20 +661,14 @@ https://sp.sintonizapp.com:7003/stream/1/
 #EXTINF:-1 group-title="Radio REPUBLICA DOMINICANA ",[REPUBLICA DOMINICANA]  RADIO MORTAL
 https://radio.telemicro.com.do/mortal104
 
-
-
 #EXTINF:-1 group-title="Radio REPUBLICA DOMINICANA ",[REPUBLICA DOMINICANA]  RADIO telemicro
 https://radio.telemicro.com.do/lakallesantiago
-
-
 
 #EXTINF:-1 group-title="Radio REPUBLICA DOMINICANA ", [REPUBLICA DOMINICANA] RADIO EXTRELLLA
 https://stream-147.zeno.fm/t8r7m90te0quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0OHI3bTkwdGUwcXV2IiwiaG9zdCI6InN0cmVhbS0xNDcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlBsSlBFdm9aUzhTVFBId0FidU9vVVEiLCJpYXQiOjE3NDMxNzIzMTQsImV4cCI6MTc0MzE3MjM3NH0.vUzBYSTXY8lm8Qg1o9qfTtBVoP1m3jHgngkpu-O5vg8
 
 #EXTINF:-1 group-title="Radio REPUBLICA DOMINICANA ", [REPUBLICA DOMINICANA] RADIO PRIMERA
 https://n02.radiojar.com/5705c71sn2zuv?rj-ttl=5&rj-tok=AAABld00sq4Afet-7LggKUbgiQ
-
-
 
 #EXTINF:-1 group-title="Radio REPUBLICA DOMINICANA ",[REPUBLICA DOMINICANA]  RADIO CDN
 https://play.cdnradio.com.do/cdnlive
@@ -726,11 +691,6 @@ https://stream-147.zeno.fm/vf867714pa0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ
 #EXTINF:-1 group-title="Radio REPUBLICA DOMINICANA ", [REPUBLICA DOMINICANA] RADIO RITM96
 https://stream-152.zeno.fm/y0br5ck4ququv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5MGJyNWNrNHF1cXV2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImVjaXR5cVNJVFVXWFdMdEVVdEtscEEiLCJpYXQiOjE3NDMxNzI5NTUsImV4cCI6MTc0MzE3MzAxNX0.8SeKfmwJBiPaklQvom1lwy8RMjtUzCMuZfxgcoLPBh4
 
-
-
-
-
-
 #EXTINF:-1 group-title="Radio REPUBLICA DOMINICANA ", [REPUBLICA DOMINICANA] RADIO LA EXITOSA
 https://radio2.grupointernet.com/8103/stream
 
@@ -740,22 +700,16 @@ https://stream-141.zeno.fm/cta80ru8na0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ
 #EXTINF:-1 group-title="Radio REPUBLICA DOMINICANA ", [REPUBLICA DOMINICANA] RADIO KV
 https://stream-168.zeno.fm/po2kawctwputv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwbzJrYXdjdHdwdXR2IiwiaG9zdCI6InN0cmVhbS0xNjguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjhIcFNGV0NyUmQtR19NS2lwdnFIclEiLCJpYXQiOjE3NDMxNzMyODAsImV4cCI6MTc0MzE3MzM0MH0.Pu3iM7ov60LU0jGcuHYidXFLbfJj2o_fXIJXURswdO8
 
-
-
 #EXTINF:-1 group-title="Radio REPUBLICA DOMINICANA ", [REPUBLICA DOMINICANA] RADIO LATIDOS
 https://rstream.hostdime.com/proxy/latidos?mp=/8880
 
 #EXTINF:-1 group-title="Radio REPUBLICA DOMINICANA ", [REPUBLICA DOMINICANA] RADIO ETERNIDA
 https://cast5.my-control-panel.com/proxy/radioete/stream
 
-
-
-
-
 #EXTINF:-1 group-title="Radio REPUBLICA DOMINICANA ", [REPUBLICA DOMINICANA] RADIO LA SUPER
 https://superregional.radioca.st/stream/1/
 
-
+==================EL SALVADOR================
 
 #EXTINF:-1 group-title="Radio EL SALVADOR ",[EL SALVADOR]  RADIO BAUTISTA
 https://s2.radio.co/s3a7dc3d82/listen
@@ -768,8 +722,6 @@ https://streaming.rcs.com.sv/proxy/abc/stream
 
 #EXTINF:-1 group-title="Radio EL SALVADOR ", [EL SALVADOR] RADIO LA CHEVERE
 https://streaming.rcs.com.sv/proxy/chevere/stream
-
-
 
 #EXTINF:-1 group-title="Radio EL SALVADOR ", [EL SALVADOR] RADIO COOL FM
 https://media.dominiocreativo.com:8011/coolfm
@@ -795,11 +747,6 @@ https://stream-159.zeno.fm/ub7p7k2wgdeuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ
 #EXTINF:-1 group-title="Radio EL SALVADOR ", [EL SALVADOR] RADIO ADVENTISTA
 https://cloudstream2032.conectarhosting.com/8062/stream/1/
 
-
-
-
-
-
 #EXTINF:-1 group-title="Radio EL SALVADOR ",[EL SALVADOR]  RADIO CARNAVAL
 https://stream.zeno.fm/k6qexbz0vd0uv
 
@@ -808,6 +755,8 @@ https://stream.miradio.in/proxy/mesias/stream/1/
 
 #EXTINF:-1 group-title="Radio EL SALVADOR ", [EL SALVADOR] RADIO GUAPA
 https://streaming.rcs.com.sv/proxy/guapa/stream
+
+==================GUATEMALA================
 
 #EXTINF:-1 group-title="Radio GUATEMALA ", [GUATEMALA] RADIO VIVA
 https://stream-158.zeno.fm/uus2ugdadkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1dXMydWdkYWRraHZ2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjhrYTJjQVpfUzZ5WGtCMkVXQmlPQkEiLCJpYXQiOjE3NDMxODYzOTQsImV4cCI6MTc0MzE4NjQ1NH0.cVRQ9r6EDSTBhdoW-aAlGjNR39dMb2T7GBbv9KZrt7k
@@ -832,9 +781,6 @@ https://radio.fiberstreams.com:2000/stream/8710
 
 #EXTINF:-1 group-title="Radio GUATEMALA ", [GUATEMALA] RADIO V
 https://stream-156.zeno.fm/a8pma0hqe5zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhOHBtYTBocWU1enV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IllfR0E3MVdBUVVPWk5aZUpjQkR1RnciLCJpYXQiOjE3NDMxOTg4NjksImV4cCI6MTc0MzE5ODkyOX0.Gqrm13FceQi5thSfxqx2EsnhDUWi5PYUUOnNbGVHczE
-
-
-
 
 #EXTINF:-1 group-title="Radio GUATEMALA ", [GUATEMALA] RADIO YASI
 https://stream-166.zeno.fm/tepnkutf9ueuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0ZXBua3V0Zjl1ZXV2IiwiaG9zdCI6InN0cmVhbS0xNjYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImlZa2JDdkhmUWQtcnlfUXMtM21DMlEiLCJpYXQiOjE3NDMxOTg5NjYsImV4cCI6MTc0MzE5OTAyNn0.zFOSPHvu3-y0bE9bRe9x7NZFCpGh3lWvlnGVn4HUwc0
@@ -902,6 +848,8 @@ https://ss.redradios.net:8043/stream
 #EXTINF:-1 group-title="Radio GUATEMALA ", [GUATEMALA] RADIO CLUB RADIO
 https://19013.live.streamtheworld.com/CLUB_RADIOAAC_SC
 
+==================HONDURAS================
+
 #EXTINF:-1 group-title="Radio en HONDURAS", [HONDURAS]  RADIO HUSIQUERA
 https://stream.zeno.fm/83h238tqsceuv
 
@@ -932,8 +880,6 @@ https://stream.playerlive.info:8285/sb.aac
 #EXTINF:-1 group-title="Radio HONDURAS ", [HONDURAS] RADIO ROCK AND POP
 https://ice42.securenetsystems.net/ROCKNPOP
 
-
-
 #EXTINF:-1 group-title="Radio HONDURAS ",[HONDURAS]  RADIO HRVC
 https://stream.playerlive.info:8021/HRVC.aac
 
@@ -963,8 +909,6 @@ https://securestreams2.autopo.st:1151/
 
 #EXTINF:-1 group-title="Radio HONDURAS ",[HONDURAS]  RADIO ESTRELLLA DE ORO
 https://stream.playerlive.info:8001/live.aac
-
-
 
 #EXTINF:-1 group-title="Radio HONDURAS ", [HONDURAS] RADIO ZOL
 https://stream-154.zeno.fm/gb30bm9daveuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnYjMwYm05ZGF2ZXV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik4wNTh6bkxXVFRtQVE3VmFOcmp5TmciLCJpYXQiOjE3NDMyNjQzNjMsImV4cCI6MTc0MzI2NDQyM30.QAAuFq7HIk24ppVPA5Mr7Bke7W8aj11dLn0WbMnWky0
@@ -1001,6 +945,8 @@ https://s.emisoras.tv:2020/stream/metro/stream/1/
 
 #EXTINF:-1 group-title="Radio HONDURAS ", [HONDURAS] RADIO ESTERIO CLASICA
 https://streaming.radio.co/s0c06b7076/listen
+
+==================MEXICO================
 
 #EXTINF:-1 group-title="Radio MEXICO ", [MEXICO] RADIO AMOR
 https://25053.live.streamtheworld.com/XHSHFM_SC
@@ -1077,7 +1023,7 @@ https://19003.live.streamtheworld.com/XHPFFM_SC
 #EXTINF:-1 group-title="Radio MEXICO ", [MEXICO] RADIO AUDIO CENTRO
 https://14123.live.streamtheworld.com/XEN_AM_SC
 
-
+==================Nicaragua================
 
 #EXTINF:-1 group-title="Radio Nicaragua", [Nicaragua]  RADIO YA
 https://stream-152.zeno.fm/eyz2zm6pg0quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJleXoyem02cGcwcXV2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlRWOVdPSTV1VGsyVFgzdk9TaTNjOGciLCJpYXQiOjE3NDMyNzc0NDQsImV4cCI6MTc0MzI3NzUwNH0.Uo9yhQG2maPg08qknhJt-IPX0FEXzYby0yZby6vZyBY
@@ -1097,25 +1043,19 @@ https://stream-153.zeno.fm/muckqtmpfvatv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ
 #EXTINF:-1 group-title="Radio Nicaragua",  [Nicaragua] RADIO FUTURA
 https://stream-166.zeno.fm/iwmolyow6tivv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJpd21vbHlvdzZ0aXZ2IiwiaG9zdCI6InN0cmVhbS0xNjYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ikk5Zkp1a2lsUllxOU5tX1lTa2ZXSXciLCJpYXQiOjE3NDMyNzg2MzMsImV4cCI6MTc0MzI3ODY5M30.22iXvQx330WeBIpXUUkwYwshQlDnomaahBTBrF4tcFQ
 
-
-
 #EXTINF:-1 group-title="Radio Nicaragua",  [Nicaragua] RADIO ESTRELLA DE MAR
 https://streamer.radio.co/sd5242d0b6/listen
 
 #EXTINF:-1 group-title="Radio Nicaragua",  [Nicaragua] RADIO RESTAURUACION
 https://player.voxservidor.com/proxy/7048
 
-
-
 #EXTINF:-1 group-title="Radio Nicaragua", [Nicaragua]  RADIO SENDAS
 https://s17.ssl-stream.com/proxy/radiosendasfm?mp=/stream/1/
-
-
 
 #EXTINF:-1 group-title="Radio Nicaragua", [Nicaragua]  RADIO HERMANOS
 https://stream-157.zeno.fm/vq7z0a3u7mruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2cTd6MGEzdTdtcnV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkZHUTdNek4tU2dhUlFPSlJodUVXNUEiLCJpYXQiOjE3NDMyNzkxNjksImV4cCI6MTc0MzI3OTIyOX0.hGurYDB92RGK2gApNpLzEx7hTJ1sVpaAnCc9LxOQ9hM
 
-
+==================PANAMA================
 
 #EXTINF:-1 group-title="Radio PANAMA", [PANAMA]  RADIO HOLA PANAMA
 https://www.streaming507.net:8124/stream
@@ -1177,6 +1117,8 @@ https://mtl9.hnux.com/http://144.217.233.87:9126/stream/1/
 #EXTINF:-1 group-title="Radio PANAMA",  [PANAMA] RADIO STEREO 89
 https://ic.streann.com/Stereo89
 
+==================PARAGUAY================
+
 #EXTINF:-1 group-title="Radio PARAGUAY", [PARAGUAY] RADIO ABC
 https://media.streambrothers.com:8342/stream
 
@@ -1195,8 +1137,6 @@ https://rfs1.farra.com.py:9433/stream
 #EXTINF:-1 group-title="Radio PARAGUAY", [PARAGUAY]  RADIO COLMENAR
 https://server5.hostipy.com:8018/stream/1/
 
-
-
 #EXTINF:-1 group-title="Radio PARAGUAY",  [PARAGUAY] RADIO ITAKARU
 https://stream-161.zeno.fm/s1gaprvh02quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzMWdhcHJ2aDAycXV2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImlMdm9OLUhzU09lUTNzeVJ2RFJpVEEiLCJpYXQiOjE3NDMyODE4MzYsImV4cCI6MTc0MzI4MTg5Nn0.-NG5xZYJsBanG4nsNA5gIhSLtPiarHuLtA1xILz5Pg8
 
@@ -1206,12 +1146,8 @@ https://ladeportiva.radioca.st/stream/1/
 #EXTINF:-1 group-title="Radio PARAGUAY", [PARAGUAY]  RADIO LA DEPORTIVA
 https://ladeportiva.radioca.st/stream/1/
 
-
-
 #EXTINF:-1 group-title="Radio PARAGUAY", [PARAGUAY]  RADIO SAN IGNACIO
 https://streampy.radiosparaguay.com/8154/stream
-
-
 
 #EXTINF:-1 group-title="Radio PARAGUAY", [PARAGUAY]  RADIO PANAMERICANA
 https://v.orlandohugo.com:10913/
@@ -1222,9 +1158,7 @@ https://cp9.serverse.com/proxy/concertfm/stream
 #EXTINF:-1 group-title="Radio PARAGUAY", [PARAGUAY]  RADIO PALMA
 https://mdstrm.com/audio/62d81d48f5ef320830c8becf/live.m3u8
 
-
-
-
+==================PERU================
 
 #EXTINF:-1 group-title="Radio PERU",  [PERU] RADIO LA ZONA
 https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio
@@ -1232,12 +1166,8 @@ https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio
 #EXTINF:-1 group-title="Radio PERU", [PERU]  RADIO LA EXITOSA
 https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561
 
-
-
 #EXTINF:-1 group-title="Radio PERU", [PERU]  RADIO LA KARIBEÑA
 https://karibena.egostreaming.pe/radio/6898b6e52d9e088a6de159/
-
-
 
 #EXTINF:-1 group-title="Radio PERU", [PERU]  RADIO LA KALLE
 https://lakalle.egostreaming.pe/radio/a7b9c3e4567f8d0123456789/
@@ -1245,20 +1175,14 @@ https://lakalle.egostreaming.pe/radio/a7b9c3e4567f8d0123456789/
 #EXTINF:-1 group-title="Radio PERU",  [PERU] RADIO MEGA MIX
 https://mdstrm.com/audio/5fada56fe4e09508207a7951/live.m3u8
 
-
-
 #EXTINF:-1 group-title="Radio PERU", [PERU]  RADIO VIVA
 https://tupanel.info:8780//stream
-
-
 
 #EXTINF:-1 group-title="Radio PERU",  [PERU] RADIO NUEVO TIEMPO
 https://stream.live.novotempo.com/radio/smil:radionuevotiempo.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Radio PERU",  [PERU] RADIO PERU CUMBIA
 https://servistream.info:8330/stream/1/
-
-
 
 #EXTINF:-1 group-title="Radio PERU", [PERU]  RADIO ONU
 https://stream2.eistreaming.com:10995/stream/1/
@@ -1271,8 +1195,6 @@ https://stream-156.zeno.fm/tu63bf6g31zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ
 
 #EXTINF:-1 group-title="Radio PERU",  [PERU] RADIO BETHEL
 https://alfa.betheltv.tv/radiobethel/1/icecast.audio
-
-
 
 #EXTINF:-1 group-title="Radio PERU",  [PERU] RADIO NOVA
 https://panel.innovatestream.pe:10989/stream/1/
@@ -1291,6 +1213,8 @@ https://panel.innovatestream.pe:10998/stream/1/
 
 #EXTINF:-1 group-title="Radio PERU", [PERU]  RADIO COMAS
 https://tupanel.info:7390/stream/1/
+
+==================PUERTO RICO================
 
 #EXTINF:-1 group-title="Radio PUERTO RICO", [PUERTO RICO]  RADIO NOTI UNO
 https://server20.servistreaming.com:9022/stream
@@ -1316,8 +1240,6 @@ https://server20.servistreaming.com:9023/stream
 #EXTINF:-1 group-title="Radio PUERTO RICO", [PUERTO RICO]  RADIO RENACER
 https://sp.unoredcdn.net/8150/stream
 
-
-
 #EXTINF:-1 group-title="Radio PUERTO RICO",[PUERTO RICO]   RADIO INSPIRA
 https://stream.aiir.com/rublzaim1cyvv
 
@@ -1327,12 +1249,8 @@ https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist
 #EXTINF:-1 group-title="Radio PUERTO RICO", [PUERTO RICO]  RADIO X LEVEL
 https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 
-
-
 #EXTINF:-1 group-title="Radio PUERTO RICO",  [PUERTO RICO] RADIO LA ESTACION DE LA FAMILIA
 https://stream.tuenlacecristiano.com:8108/stream
-
-
 
 #EXTINF:-1 group-title="Radio PUERTO RICO",[PUERTO RICO]   RADIO VICTORIA
 https://server7.servistreaming.com/proxy/historia840?mp=/stream/1/
@@ -1358,15 +1276,13 @@ https://server7.servistreaming.com/proxy/hotaac?mp=/stream
 #EXTINF:-1 group-title="Radio PUERTO RICO", [PUERTO RICO]  RADIO WZOL
 https://stream.eleden.com/wzol.aac/wzol.aac.stream/playlist.m3u8
 
-
-
-
-
 #EXTINF:-1 group-title="Radio PUERTO RICO",  [PUERTO RICO] RADIO X61
 https://us1.streamingpulse.com/ssl/X61Radio
 
 #EXTINF:-1 group-title="Radio PUERTO RICO", [PUERTO RICO]  RADIO ALLEGRO
 https://streamwipr.pr/fm.aac
+
+==================URUGAY================
 
 #EXTINF:-1 group-title="Radio URUGAY", [URUGAY]  RADIO AZUL
 https://azul-1.nty.uy/
@@ -1455,6 +1371,8 @@ https://radios.iwstreaming.uy/8032/stream
 #EXTINF:-1 group-title="Radio URUGAY",[URUGAY]   RADIO SUR FM
 https://dattavolt.com/8268/stream
 
+==================VENEZUELA================
+
 #EXTINF:-1 group-title="Radio VENEZUELA",[VENEZUELA]  RADIO LA ROMANTICA
 https://server6.globalhostla.com:8068/stream
 
@@ -1469,8 +1387,6 @@ https://acp4.lorini.net/proxy/ur2080?mp=/stream
 
 #EXTINF:-1 group-title="Radio VENEZUELA",[VENEZUELA]  RADIO RUMBA
 https://cast20.plugstreaming.com:2020/stream/r981
-
-
 
 #EXTINF:-1 group-title="Radio VENEZUELA", [VENEZUELA] RADIO SUPER TRENDY
 https://live.ajfnetwork.com.ve/musikvalencia/stream/1/
@@ -1499,8 +1415,6 @@ https://stream-158.zeno.fm/c3q3w8zfe18uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ
 #EXTINF:-1 group-title="Radio VENEZUELA",[VENEZUELA]  RADIO RADIORAMA
 https://acp2.lorini.net:44002/stream
 
-
-
 #EXTINF:-1 group-title="Radio VENEZUELA",[VENEZUELA]  RADIO POP
 https://stream-160.zeno.fm/h1vnadktvchvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJoMXZuYWRrdHZjaHZ2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ikx5VzdUYndZVG1PNWQtQkNfX2l5eWciLCJpYXQiOjE3NDMzNjYxODYsImV4cCI6MTc0MzM2NjI0Nn0.y-GYmpNxus235_MeS96UnJepIMJBup-qvZRdqxrBBRk
 
@@ -1525,18 +1439,17 @@ https://server6.globalhostla.com:8098/stream
 #EXTINF:-1 group-title="Radio VENEZUELA",[VENEZUELA]  RADIO UNICA
 https://unica-zikoxweb.radioca.st/stream/1/
 
-
-
 #EXTINF:-1 group-title="Radio VENEZUELA", [VENEZUELA] RADIO PLANETA
 https://cast10.plugstreaming.com:2000/sslstream/planetafm/stream/1/
-
-
 
 #EXTINF:-1 group-title="Radio VENEZUELA", [VENEZUELA] RADIO NOESFM
 https://noesfm.radioca.st/stream/1/
 
 #EXTINF:-1 group-title="Radio ESPAÑA", [VENEZUELA] RADIO CADENA DIAL
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIALAAC_SC
+
+
+==================ESPAÑA================
 
 #EXTINF:-1 group-title="Radio ESPAÑA", [ESPAÑA] RADIO FLAIX
 https://stream.flaixfm.cat/icecast
@@ -1578,6 +1491,7 @@ https://cartv.streaming.aranova.es/hls/live/aragonradio_aragonradio1.m3u8
 
 #EXTINF:-1 group-title="Radio ESPAÑA", [ESPAÑA] RADIO MEGASTAR
 https://megastar-cope.flumotion.com/chunks.m3u8
+
 
 
 
