@@ -17,7 +17,7 @@ https://dattavolt.com/8358/matovelle
 #EXTINF:-1 group-title="Radio Ecuador ",[Ecuador] cre satelital
 https://streamingecuador.net:9006/stream?1751216968832
 
-#EXTINF:-1 group-title="Radio Ecuador ",[Ecuador] Radio SAB ANTONIO
+#EXTINF:-1 group-title="Radio Ecuador ",[Ecuador] Radio SAN ANTONIO
 https://sonicpanel.zonaradio.net/8266/stream
 
 
@@ -82,8 +82,6 @@ https://streamingecuador.net:9006/stream
 #EXTINF:-1 group-title="Radio Ecuador ",[Ecuador] RADIO CARIAMANGA
 https://sonic.streamseguro.com/8138/stream
 
-#EXTINF:-1 group-title="Radio Ecuador ",[Ecuador] RADIO PROGRESO
-https://icecast.teveo.cu/XjfW7qWN
 
 #EXTINF:-1 group-title="Radio Ecuador ",[Ecuador] RADIO ECUASUR
 https://stream.hospedandosites.com.br:8092/stream/1/
@@ -1491,6 +1489,7 @@ https://cartv.streaming.aranova.es/hls/live/aragonradio_aragonradio1.m3u8
 
 #EXTINF:-1 group-title="Radio ESPAÑA", [ESPAÑA] RADIO MEGASTAR
 https://megastar-cope.flumotion.com/chunks.m3u8
+
 
 
 
