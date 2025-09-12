@@ -2,13 +2,13 @@
 
 ==================ecuador=================
 
-#EXTINF:-1 group-title="Radio Ecuador ",[Ecuador] Radio Anime
+#EXTINF:-1 group-title="Radio Ecuador ", [Ecuador] Radio Anime
 https://stream.zeno.fm/wpyct1ugdq8uv
 
-#EXTINF:-1 group-title="Radio Ecuador ",[Ecuador] RADIO LA NUEVE
+#EXTINF:-1 group-title="Radio Ecuador ", [Ecuador] RADIO LA NUEVE
 https://stream.zeno.fm/cpknd5gm8ixtv
 
-#EXTINF:-1 group-title="Radio Ecuador ",[Ecuador] Radio Cañaveral
+#EXTINF:-1 group-title="Radio Ecuador " ,[Ecuador] Radio Cañaveral
 https://sonic.streamseguro.com/8054/stream/1/
 
 #EXTINF:-1 group-title="Radio Ecuador ",[Ecuador] Radio Matovelle
@@ -1489,6 +1489,7 @@ https://cartv.streaming.aranova.es/hls/live/aragonradio_aragonradio1.m3u8
 
 #EXTINF:-1 group-title="Radio ESPAÑA", [ESPAÑA] RADIO MEGASTAR
 https://megastar-cope.flumotion.com/chunks.m3u8
+
 
 
 
