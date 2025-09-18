@@ -192,6 +192,8 @@ https://grupomundodigital.com:8580/stream
 https://rr5100.globalhost1.com/8140/stream/1/
 
 ==================Argentina=================
+#EXTINF:-1 group-title="Radio Argentina ",[Argentina]   azaharesfm 
+http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="Radio Argentina ",[Argentina] Radio Mega 98.3
 https://mega.stweb.tv/mega983/live/playlist.m3u8
@@ -1489,6 +1491,7 @@ https://cartv.streaming.aranova.es/hls/live/aragonradio_aragonradio1.m3u8
 
 #EXTINF:-1 group-title="Radio ESPAÑA", [ESPAÑA] RADIO MEGASTAR
 https://megastar-cope.flumotion.com/chunks.m3u8
+
 
 
 
