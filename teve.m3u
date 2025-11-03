@@ -40,8 +40,6 @@ https://streaming.radioestacion4.com:8120/stream/1/
 #EXTINF:-1 group-title="Radio Ecuador ",[Ecuador] RADIO CARIAMANGA
 https://sonic.streamseguro.com/8138/stream
 
-#EXTINF:-1 group-title="Radio Ecuador ",[Ecuador] RADIO VIGIA
-https://streamingecuador.net:9070/radiovigia
 
 #EXTINF:-1 group-title="Radio Ecuador ",[Ecuador] RADIO ESTERIO MACARA
 https://sonic.streamseguro.com/8160/stream
@@ -173,8 +171,7 @@ https://streamingecuador.com:9010/stream
 #EXTINF:-1 group-title="Radio Ecuador ",[Ecuador] Radio Zaracay
 https://stream-161.zeno.fm/as3xhhc0ts8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhczN4aGhjMHRzOHV2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjBDNl9sd0VXUnNHeGFRdEhmWm42ZHciLCJpYXQiOjE3NDI3NjQ1OTAsImV4cCI6MTc0Mjc2NDY1MH0.UekC3ZSGhw2PxaWp_vTG_vlFzTo0id6cKPHzjlaK_Dk
 
-#EXTINF:-1 group-title="Radio Ecuador ",[Ecuador] Radio Nuevo tiempo
-https://streamingecuador.net/stream/radionuevotiempo
+
 
 #EXTINF:-1 group-title="Radio Ecuador ",[Ecuador] Radio Complice
 https://dattavolt.com/8422/stream
@@ -229,14 +226,10 @@ https://24283.live.streamtheworld.com/RIVADAVIA_SC
 #EXTINF:-1 group-title="Radio Argentina ",[Argentina] Radio HEAT_SC
 https://26583.live.streamtheworld.com/CADENAHEAT_SC
 
-#EXTINF:-1 group-title="Radio Argentina ",[Argentina] Radio AM750
-https://24363.live.streamtheworld.com/AM750AAC_SC
 
-#EXTINF:-1 group-title="Radio Argentina ",[Argentina] Radio Sucesos
-https://ssl.dainusradio.com/shoutcast2/2341/stream/1/
 
-#EXTINF:-1 group-title="Radio Argentina ",[Argentina] Radio stacion del sol
-https://streamserver-2.xyz/listen/estacion_del_sol/radio.aac
+
+
 
 #EXTINF:-1 group-title="Radio Argentina ",[Argentina] Radio one
 https://one.stweb.tv/one/live/playlist.m3u8
@@ -1491,6 +1484,7 @@ https://cartv.streaming.aranova.es/hls/live/aragonradio_aragonradio1.m3u8
 
 #EXTINF:-1 group-title="Radio ESPAÑA", [ESPAÑA] RADIO MEGASTAR
 https://megastar-cope.flumotion.com/chunks.m3u8
+
 
 
 
