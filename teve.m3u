@@ -674,14 +674,12 @@ https://media.dominiocreativo.com:8000/stream/1/
 #EXTINF:-1 group-title="Radio EL SALVADOR ",[EL SALVADOR]  RADIO Corporacion El Salvador
 https://streaming.rcs.com.sv/proxy/abc/stream
 
-#EXTINF:-1 group-title="Radio EL SALVADOR ", [EL SALVADOR] RADIO LA CHEVERE
-https://streaming.rcs.com.sv/proxy/chevere/stream
+
 
 #EXTINF:-1 group-title="Radio EL SALVADOR ", [EL SALVADOR] RADIO COOL FM
 https://media.dominiocreativo.com:8011/coolfm
 
-#EXTINF:-1 group-title="Radio EL SALVADOR ", [EL SALVADOR] RADIO VOX
-https://cast3.asurahosting.com/proxy/gabriel/stream
+
 
 #EXTINF:-1 group-title="Radio EL SALVADOR ", [EL SALVADOR] RADIO EL SALVADOR
 https://streamingcwsradio30.com/8156/stream/1/
@@ -815,8 +813,7 @@ https://streamingcwsradio30.com:7045/stream/1/
 #EXTINF:-1 group-title="Radio HONDURAS ",[HONDURAS]  RADIO W
 https://sonicpanel.us/8138/stream/1/
 
-#EXTINF:-1 group-title="Radio HONDURAS ", [HONDURAS] RADIO LUZ
-https://stream.playerlive.info:8060/envivo.aac
+
 
 #EXTINF:-1 group-title="Radio HONDURAS ", [HONDURAS] RADIO SB STEREO
 https://stream.playerlive.info:8285/sb.aac
@@ -850,8 +847,7 @@ https://ice42.securenetsystems.net/94SUFM
 
 
 
-#EXTINF:-1 group-title="Radio HONDURAS ",[HONDURAS]  RADIO ESTRELLLA DE ORO
-https://stream.playerlive.info:8001/live.aac
+
 
 #EXTINF:-1 group-title="Radio HONDURAS ", [HONDURAS] RADIO ZOL
 https://stream-154.zeno.fm/gb30bm9daveuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnYjMwYm05ZGF2ZXV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik4wNTh6bkxXVFRtQVE3VmFOcmp5TmciLCJpYXQiOjE3NDMyNjQzNjMsImV4cCI6MTc0MzI2NDQyM30.QAAuFq7HIk24ppVPA5Mr7Bke7W8aj11dLn0WbMnWky0
@@ -877,8 +873,7 @@ https://ice42.securenetsystems.net/EXITOS
 #EXTINF:-1 group-title="Radio HONDURAS ", [HONDURAS] RADIO HRN LA VOZ DE HONDURAS
 https://ice42.securenetsystems.net/HRN
 
-#EXTINF:-1 group-title="Radio HONDURAS ", [HONDURAS] RADIO AMERICA
-https://26523.live.streamtheworld.com/AMERICA_SC
+
 
 #EXTINF:-1 group-title="Radio HONDURAS ", [HONDURAS] RADIO SATELITE
 https://ice42.securenetsystems.net/SATELITE
@@ -891,8 +886,7 @@ https://streaming.radio.co/s0c06b7076/listen
 
 ==================MEXICO================
 
-#EXTINF:-1 group-title="Radio MEXICO ", [MEXICO] RADIO AMOR
-https://25053.live.streamtheworld.com/XHSHFM_SC
+
 
 #EXTINF:-1 group-title="Radio MEXICO ", [MEXICO] RADIO MVS
 https://20593.live.streamtheworld.com/XHMVSFM_SC
@@ -936,8 +930,7 @@ https://14553.live.streamtheworld.com/XHQQ_FM_SC
 #EXTINF:-1 group-title="Radio MEXICO ",[MEXICO]  RADIO PANDA
 https://drmx.streamguys1.com/panda
 
-#EXTINF:-1 group-title="Radio MEXICO ", [MEXICO] RADIO  LA DEPORTIVA
-https://26293.live.streamtheworld.com/RG690_SC
+
 
 #EXTINF:-1 group-title="Radio MEXICO ", [MEXICO] RADIO  IMAGEN
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEDAFMAAC_SC
@@ -1032,8 +1025,7 @@ https://stream-160.zeno.fm/fz1rcfd1x1zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ
 
 
 
-#EXTINF:-1 group-title="Radio PANAMA", [PANAMA]  RADIO ESTERIO AZUL
-https://25023.live.streamtheworld.com/ESTEREOAZULAAC_SC
+
 
 #EXTINF:-1 group-title="Radio PANAMA",  [PANAMA] RADIO PANAMA
 https://streaming.radiopanama.com.pa/stream
@@ -1063,8 +1055,7 @@ https://cp9.serverse.com/proxy/naduti1020/stream
 #EXTINF:-1 group-title="Radio PARAGUAY", [PARAGUAY]  RADIO MONUMENTAL
 https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/62d81ca6a459e4082203c95b?aid=62d818a924cf7908229cd029&pid=okvrBFk6KJUpUid3oRMeml3OGSNiWh42&sid=ppFgEklu3xJBJwwQcoFFYcKxbSEVxG8r&uid=9ZRjlW6AyNMUihC8kPIYf9AsSXF9RBGs&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1743368010155&ot=Ao90hmPSgFlTMfik9shsAw&proto=https&pz=us&cP=128000&awCollectionId=62d818a924cf7908229cd029&liveId=62d81ca6a459e4082203c95b&referer=https%3A%2F%2Femisoras.com.py%2F&listenerId=9ZRjlW6AyNMUihC8kPIYf9AsSXF9RBGs
 
-#EXTINF:-1 group-title="Radio PARAGUAY", [PARAGUAY]  RADIO UNO
-https://rus1.radiouno.com.py:9433/stream
+
 
 #EXTINF:-1 group-title="Radio PARAGUAY", [PARAGUAY]  RADIO FARA
 https://rfs1.farra.com.py:9433/stream
@@ -1075,11 +1066,7 @@ https://server5.hostipy.com:8018/stream/1/
 #EXTINF:-1 group-title="Radio PARAGUAY",  [PARAGUAY] RADIO ITAKARU
 https://stream-161.zeno.fm/s1gaprvh02quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzMWdhcHJ2aDAycXV2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImlMdm9OLUhzU09lUTNzeVJ2RFJpVEEiLCJpYXQiOjE3NDMyODE4MzYsImV4cCI6MTc0MzI4MTg5Nn0.-NG5xZYJsBanG4nsNA5gIhSLtPiarHuLtA1xILz5Pg8
 
-#EXTINF:-1 group-title="Radio PARAGUAY", [PARAGUAY]  RADIO LA DEPORTIVA
-https://ladeportiva.radioca.st/stream/1/
 
-#EXTINF:-1 group-title="Radio PARAGUAY", [PARAGUAY]  RADIO LA DEPORTIVA
-https://ladeportiva.radioca.st/stream/1/
 
 #EXTINF:-1 group-title="Radio PARAGUAY", [PARAGUAY]  RADIO SAN IGNACIO
 https://streampy.radiosparaguay.com/8154/stream
@@ -1190,15 +1177,13 @@ https://server7.servistreaming.com/proxy/historia840?mp=/stream/1/
 #EXTINF:-1 group-title="Radio PUERTO RICO", [PUERTO RICO]  RADIO MARANATHA
 https://stream-157.zeno.fm/8h1fp5vzmtwtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4aDFmcDV2em10d3R2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImxKMGN3TXZzUlBDRFFsU1JseUY0SFEiLCJpYXQiOjE3NDMyODg4ODUsImV4cCI6MTc0MzI4ODk0NX0.bLlEbpTj7lzi5cReVfKSWVoBqBoZk_P_KWXnQVyvFSw
 
-#EXTINF:-1 group-title="Radio PUERTO RICO", [PUERTO RICO]  RADIO ONCE
-https://stream-175.zeno.fm/gw0kpk6wt4zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJndzBrcGs2d3Q0enV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImV5c1hvRVl4UjhxV1E5cktmUGNYMVEiLCJpYXQiOjE3NDMyODg5MzgsImV4cCI6MTc0MzI4ODk5OH0.0jVh9u9ymJ18mJu6BdLrE8MZ28zUe-LzF9sJfIGhhus
+
 
 #EXTINF:-1 group-title="Radio PUERTO RICO", [PUERTO RICO]  RADIO PARAISO
 https://stream.eleden.com:8240/wtpm.aac
 
 
-#EXTINF:-1 group-title="Radio PUERTO RICO", [PUERTO RICO]  RADIO HOT 102
-https://server7.servistreaming.com/proxy/hotaac?mp=/stream
+
 
 #EXTINF:-1 group-title="Radio PUERTO RICO", [PUERTO RICO]  RADIO WZOL
 https://stream.eleden.com/wzol.aac/wzol.aac.stream/playlist.m3u8
@@ -1206,8 +1191,6 @@ https://stream.eleden.com/wzol.aac/wzol.aac.stream/playlist.m3u8
 #EXTINF:-1 group-title="Radio PUERTO RICO",  [PUERTO RICO] RADIO X61
 https://us1.streamingpulse.com/ssl/X61Radio
 
-#EXTINF:-1 group-title="Radio PUERTO RICO", [PUERTO RICO]  RADIO ALLEGRO
-https://streamwipr.pr/fm.aac
 
 ==================URUGAY================
 
@@ -1223,19 +1206,15 @@ https://espectador-1.nty.uy/
 #EXTINF:-1 group-title="Radio URUGAY",  [URUGAY] RADIO METROPOLIS
 https://metropolis-web-1.nty.uy/
 
-#EXTINF:-1 group-title="Radio URUGAY", [URUGAY]  RADIO SPORT
-https://alba-uy-sport890-sport890.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 group-title="Radio URUGAY", [URUGAY]  RADIO AIRE
-https://airefm-1.nty.uy/:8030/
+
 
 
 
 #EXTINF:-1 group-title="Radio URUGAY", [URUGAY]  RADIO universal
 https://970universal-3.nty.uy/
 
-#EXTINF:-1 group-title="Radio URUGAY",  [URUGAY] RADIO DEL SOL 
-https://delsol-2.nty.uy/
+
 
 #EXTINF:-1 group-title="Radio URUGAY",  [URUGAY] RADIO FUTURA
 https://alba-uy-radiofutura-futura.stream.mediatiquestream.com/index.m3u8
@@ -1243,8 +1222,7 @@ https://alba-uy-radiofutura-futura.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 group-title="Radio URUGAY", [URUGAY]  RADIO ALFA
 https://rfm.radio.netgate.com.uy:8443/alfafm
 
-#EXTINF:-1 group-title="Radio URUGAY", [URUGAY]  RADIO ALFA
-https://rfm.radio.netgate.com.uy:8443/alfafm
+
 
 #EXTINF:-1 group-title="Radio URUGAY",  [URUGAY] RADIO SARANDI
 https://alba-uy-sarandi-sarandi.stream.mediatiquestream.com/index.m3u8
@@ -1257,8 +1235,7 @@ https://streaming1.hostingmontevideo.com:7016/stream/1/
 
 
 
-#EXTINF:-1 group-title="Radio URUGAY",  [URUGAY] RADIO ASPEN
-https://streaming2.hostingmontevideo.com:7010/stream/1/
+
 
 #EXTINF:-1 group-title="Radio URUGAY", [URUGAY]  RADIO ORIENTAL
 https://radiolatina.live/7906/stream/1/
@@ -1280,8 +1257,7 @@ https://radioclarin-zikoxweb.radioca.st/stream/1/
 
 
 
-#EXTINF:-1 group-title="Radio URUGAY",  [URUGAY] RADIO LA ARAPEY
-https://hmdsystem.info:8150/arapey
+
 
 #EXTINF:-1 group-title="Radio URUGAY",  [URUGAY] RADIO ZORRILLA
 https://server-usa2.radioseninternet.net/9312/stream/1/
@@ -1292,21 +1268,17 @@ https://salida.stream.com.uy:8506/stream
 #EXTINF:-1 group-title="Radio URUGAY",[URUGAY]   RADIO CLASICA
 https://radios.iwstreaming.uy/8032/stream
 
-#EXTINF:-1 group-title="Radio URUGAY",[URUGAY]   RADIO SUR FM
-https://dattavolt.com/8268/stream
+
 
 ==================VENEZUELA================
 
 
 
-#EXTINF:-1 group-title="Radio VENEZUELA",[VENEZUELA]  RADIO EXITOS
-https://acp4.lorini.net/proxy/ur2070?mp=/stream
 
 #EXTINF:-1 group-title="Radio VENEZUELA",[VENEZUELA]  RADIO FIESTA LATINA
 https://stream.zeno.fm/e2kzfpr34d0uv
 
-#EXTINF:-1 group-title="Radio VENEZUELA",[VENEZUELA]  RADIO UNION
-https://acp4.lorini.net/proxy/ur2080?mp=/stream
+
 
 #EXTINF:-1 group-title="Radio VENEZUELA",[VENEZUELA]  RADIO RUMBA
 https://cast20.plugstreaming.com:2020/stream/r981
@@ -1317,8 +1289,7 @@ https://live.ajfnetwork.com.ve/musikvalencia/stream/1/
 #EXTINF:-1 group-title="Radio VENEZUELA", [VENEZUELA] RADIO TAMA STERIO
 https://guri.tepuyserver.net/8457/stream/1/
 
-#EXTINF:-1 group-title="Radio VENEZUELA", [VENEZUELA] RADIO BELLA
-https://server6.globalhostla.com:9380/stream
+
 
 #EXTINF:-1 group-title="Radio VENEZUELA",[VENEZUELA]  RADIO IMPRESIONANTE
 https://laradiossl.online:10489/stream/1/
@@ -1337,8 +1308,7 @@ https://stream-158.zeno.fm/c3q3w8zfe18uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ
 #EXTINF:-1 group-title="Radio VENEZUELA",[VENEZUELA]  RADIO RADIORAMA
 https://acp2.lorini.net:44002/stream
 
-#EXTINF:-1 group-title="Radio VENEZUELA",[VENEZUELA]  RADIO POP
-https://stream-160.zeno.fm/h1vnadktvchvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJoMXZuYWRrdHZjaHZ2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ikx5VzdUYndZVG1PNWQtQkNfX2l5eWciLCJpYXQiOjE3NDMzNjYxODYsImV4cCI6MTc0MzM2NjI0Nn0.y-GYmpNxus235_MeS96UnJepIMJBup-qvZRdqxrBBRk
+
 
 #EXTINF:-1 group-title="Radio VENEZUELA",[VENEZUELA]  RADIO X
 https://acp2.lorini.net:39500/stream/1/
@@ -1410,6 +1380,7 @@ https://intereconomia.emitironline.com/
 
 #EXTINF:-1 group-title="Radio ESPAÑA", [ESPAÑA] RADIO MEGASTAR
 https://megastar-cope.flumotion.com/chunks.m3u8
+
 
 
 
