@@ -17,8 +17,6 @@ https://dattavolt.com/8358/matovelle
 #EXTINF:-1 group-title="Radio Ecuador ",[Ecuador] cre satelital
 https://streamingecuador.net:9006/stream?1751216968832
 
-#EXTINF:-1 group-title="Radio Ecuador ",[Ecuador] Radio SAN ANTONIO
-https://sonicpanel.zonaradio.net/8266/stream
 
 
 
@@ -84,8 +82,7 @@ https://sonic.streamseguro.com/8138/stream
 #EXTINF:-1 group-title="Radio Ecuador ",[Ecuador] RADIO ECUASUR
 https://stream.hospedandosites.com.br:8092/stream/1/
 
-#EXTINF:-1 group-title="Radio Ecuador ",[Ecuador] RADIO LUZ Y VIDA 
-https://sonicpanel.zonaradio.net/8248/stream/1/
+
 
 #EXTINF:-1 group-title="Radio Ecuador ",[Ecuador] Radio Disney
 https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ECU_GY_SC
@@ -214,11 +211,9 @@ https://streaming450tb.locucionar.com/proxy/fmvida979?mp=/stream
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad1
 
 
-#EXTINF:-1 group-title="Radio Argentina ",[Argentina] Radio C3
-https://26523.live.streamtheworld.com/RADIO3_SC
 
-#EXTINF:-1 group-title="Radio Argentina ",[Argentina] Radio RIVADAVIA
-https://24283.live.streamtheworld.com/RIVADAVIA_SC
+
+
 
 #EXTINF:-1 group-title="Radio Argentina ",[Argentina] Radio HEAT_SC
 https://26583.live.streamtheworld.com/CADENAHEAT_SC
@@ -273,13 +268,11 @@ https://streaming.escuchanosonline.com:7118/stream/1/
 #EXTINF:-1 group-title="Radio Argentina ",[Argentina] Radio 770
 https://cdn.instream.audio:9582/stream
 
-#EXTINF:-1 group-title="Radio Argentina ",[Argentina] Radio oktubre
-https://22833.live.streamtheworld.com/OKTUBRE_SC
+
 
 ==================Bolivia=================
 
-#EXTINF:-1 group-title="Radio bolivia ",[Bolivia] Radio chatalcaya
-https://cast6.asurahosting.com/proxy/irfradio/stream/1/
+
 
 #EXTINF:-1 group-title="Radio bolivia ",[Bolivia] Radio 96.7
 https://spanel.gcomstreaming.com/8018/stream/1/
@@ -305,8 +298,7 @@ https://emiteradio.com/proxy/radiobetania?mp=/stream
 #EXTINF:-1 group-title="Radio bolivia ",[Bolivia] Radio CLASICA
 https://live.turadiotv.com/9976/stream/1/
 
-#EXTINF:-1 group-title="Radio bolivia ",[Bolivia] Radio KOLLASUYA
-https://azura2.bitstreaming.net:8000/radio128.aac
+
 
 
 #EXTINF:-1 group-title="Radio bolivia ",[Bolivia] Radio WKM
@@ -342,8 +334,7 @@ https://conectperu.com/8396/stream/1/
 #EXTINF:-1 group-title="Radio bolivia ",[Bolivia] Radio PANAMERICANA
 https://stream-147.zeno.fm/pnwpbyfambruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwbndwYnlmYW1icnV2IiwiaG9zdCI6InN0cmVhbS0xNDcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlFxWDhNZ2RyUjRpeEJOUE9GMmZmaFEiLCJpYXQiOjE3NDI5MjA3NzIsImV4cCI6MTc0MjkyMDgzMn0.zt13Vc7defAW2RSai9sXCBD_w7f5MuPRkOqoN4VdjJ8
 
-#EXTINF:-1 group-title="Radio bolivia ",[Bolivia] Radio HIT 99
-https://stream.creaxium.com/listen/fm_hit_99.1/stream192
+
 
 ==================CHILE=================
 
@@ -380,8 +371,7 @@ https://26563.live.streamtheworld.com/IMAGINA_SC
 #EXTINF:-1 group-title="Radio CHILE ", [CHILE]  Radio CONCIERTO
 https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTOAAC_SC
 
-#EXTINF:-1 group-title="Radio CHILE ",[CHILE]   Radio ROCK_AND_POP
-https://24483.live.streamtheworld.com/ROCK_AND_POP_SC
+
 
 #EXTINF:-1 group-title="Radio CHILE ", [CHILE]  Radio corporacion
 https://audio1.tustreaming.cl/8026/stream/1/
@@ -389,11 +379,9 @@ https://audio1.tustreaming.cl/8026/stream/1/
 #EXTINF:-1 group-title="Radio CHILE ", [CHILE]  Radio conquistador
 https://stream10.usastreams.com/9314/stream
 
-#EXTINF:-1 group-title="Radio CHILE ",[CHILE]   Radio festival
-https://sp001.servidoresph.com:7061//1
 
-#EXTINF:-1 group-title="Radio CHILE ", [CHILE]  Radio uchile
-https://streamuchile.teslati.com/liveruch
+
+
 
 #EXTINF:-1 group-title="Radio CHILE ", [CHILE]  Radio ok
 https://streaming.fmokey.cl/moviles.mp3
@@ -412,8 +400,7 @@ https://sonando-us.digitalproserver.com/ritoquefm_aac
 #EXTINF:-1 group-title="Radio CHILE ", [CHILE]  Radio sol
 https://us9.maindigitalstream.com/ssl/7389
 
-#EXTINF:-1 group-title="Radio CHILE ", [CHILE]  Radio carnaval
-https://sonando-us.digitalproserver.com/carnaval_vinadelmar.aac
+
 
 #EXTINF:-1 group-title="Radio CHILE ",[CHILE]   Radio trance
 https://stream.radioclub80.cl:8052/trancelive80.mp3
@@ -429,8 +416,7 @@ https://27403.live.streamtheworld.com/CARACOL_RADIOAAC_SC
 #EXTINF:-1 group-title="Radio Colombia ", [Colombia]  Radio Activa
 https://26663.live.streamtheworld.com/RADIO_ACTIVA_SC
 
-#EXTINF:-1 group-title="Radio Colombia ", [Colombia]  Radio w radio
-https://24233.live.streamtheworld.com/WRADIO_SC
+
 
 #EXTINF:-1 group-title="Radio Colombia ", [Colombia]  Radio la fm
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio/6271a4d5d206c3172f3c9a9c/632c9b23d1dcd7027f32f7fe/chunks.m3u8
@@ -490,8 +476,7 @@ https://radiolatina.info/8772/stream
 #EXTINF:-1 group-title="Radio costa rica ", [costa rica] Radio musica
 https://live.turadio.stream:7005/stream/1/
 
-#EXTINF:-1 group-title="Radio costa rica ", [costa rica] Radio besame
-https://27603.live.streamtheworld.com/BESAME_CR_SC
+
 
 #EXTINF:-1 group-title="Radio costa rica ",[costa rica]  Radio esterio vision
 https://live.turadio.stream:9984/stream/1/
@@ -501,17 +486,13 @@ https://s2.radio.co/s83b86382e/listen
 
 
 
-#EXTINF:-1 group-title="Radio costa rica ", [costa rica] Radio vida & esperanza
-https://centova.hostingtico.com:7010/stream/1/
 
-#EXTINF:-1 group-title="Radio costa rica ",[costa rica]  Radio extra radio
-https://d30exmp0xfb5jr.cloudfront.net/index.m3u8
 
-#EXTINF:-1 group-title="Radio costa rica ",[costa rica]  Radio la mejor
-https://alba-cr-lamejor-lamejor.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 group-title="Radio costa rica ", [costa rica] Radio la omega
-https://centova.hostingtico.com:7008/stream/1/
+
+
+
+
 
 #EXTINF:-1 group-title="Radio costa rica ", [costa rica] Radio la 2
 https://s5.radio.co/sd515b7b34/listen
@@ -519,15 +500,13 @@ https://s5.radio.co/sd515b7b34/listen
 #EXTINF:-1 group-title="Radio costa rica ",[costa rica]  Radio hit
 https://live.turadio.stream:7004/stream/1/
 
-#EXTINF:-1 group-title="Radio costa rica ",[costa rica]  Radio uncion
-https://centova.hostingtico.com:7016/
+
 
 #EXTINF:-1 group-title="Radio costa rica ",[costa rica]  Radio foro caribe
 https://sp.unoredcdn.net:8032/stream/1/
 
 
-#EXTINF:-1 group-title="Radio costa rica ", [costa rica] Radio 94.7
-https://24983.live.streamtheworld.com/CRC_947AAC_SC
+
 
 
 
@@ -540,8 +519,7 @@ https://live.turadio.stream:9972/stream/1/
 #EXTINF:-1 group-title="Radio costa rica ", [costa rica] RADIO columbia
 https://s5.radio.co/sca838cc60/listen
 
-#EXTINF:-1 group-title="Radio costa rica ",[costa rica]  RADIO IQ
-https://centova.hostingtico.com:7002/stream/
+
 
 #EXTINF:-1 group-title="Radio costa rica ",[costa rica]  RADIO JAZZ
 https://streaming.radio.co/s36bd2a451/listen
@@ -573,13 +551,11 @@ https://usa18.fastcast4u.com/proxy/rmoohhrw?mp=/stream/1/
 #EXTINF:-1 group-title="Radio costa rica ", [costa rica] RADIO ONDA BRAVA
 https://cast4.my-control-panel.com/proxy/ondabra3/stream
 
-#EXTINF:-1 group-title="Radio costa rica ",[costa rica]  RADIO LIRA
-https://radiolira.ice.infomaniak.ch/radiolira.aac
+
 
 ==================cuba=================
 
-#EXTINF:-1 group-title="Radio CUBA ", [CUBA] RADIO REBELDE
-https://icecast.teveo.cu/kHKL7tWd
+
 
 #EXTINF:-1 group-title="Radio CUBA ",[CUBA]  RADIO TAIN
 https://icecast.teveo.cu/3MCwWg3V
@@ -599,8 +575,7 @@ https://stream2.rcast.net/60446
 #EXTINF:-1 group-title="Radio CUBA ", [CUBA] RADIO TU ZONA MUSICAL
 https://radiomachado.com/radio/8000/radio.mp3
 
-#EXTINF:-1 group-title="Radio CUBA ",[CUBA]  RADIO 85
-https://icecast.teveo.cu/hmVcdgM7
+
 
 #EXTINF:-1 group-title="Radio CUBA ",[CUBA]  RADIO zona musical
 https://icecast.teveo.cu/CL7jRXqn
@@ -628,8 +603,6 @@ https://icecast.teveo.cu/7hdNcTbM
 
 
 
-#EXTINF:-1 group-title="Radio CUBA ", [CUBA] RADIO MINAS
-https://icecast.teveo.cu/X9XNRkW4
 
 #EXTINF:-1 group-title="Radio CUBA ", [CUBA] RADIO radiocubana
 https://icecast.teveo.cu/kcLKb4qv
@@ -1437,6 +1410,7 @@ https://intereconomia.emitironline.com/
 
 #EXTINF:-1 group-title="Radio ESPAÑA", [ESPAÑA] RADIO MEGASTAR
 https://megastar-cope.flumotion.com/chunks.m3u8
+
 
 
 
