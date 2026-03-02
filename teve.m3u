@@ -14,10 +14,11 @@ https://sonic.streamseguro.com/8054/stream/1/
 #EXTINF:-1 group-title="Radio Ecuador ",[Ecuador] Radio Matovelle
 https://dattavolt.com/8358/matovelle
 
-#EXTINF:-1 group-title="Radio Ecuador ",[Ecuador] cre satelital
+#EXTINF:-1 group-title="Radio Ecuador ",[Ecuador] sucre satelital
 https://streamingecuador.net:9006/stream?1751216968832
 
-
+#EXTINF:-1 group-title="Radio Ecuador ",[Ecuador] radio municipal
+https://grupomundodigital.com:8817/stream
 
 
 #EXTINF:-1 group-title="Radio Ecuador ",[Ecuador] Radio universitaria
@@ -1380,6 +1381,7 @@ https://intereconomia.emitironline.com/
 
 #EXTINF:-1 group-title="Radio ESPAÑA", [ESPAÑA] RADIO MEGASTAR
 https://megastar-cope.flumotion.com/chunks.m3u8
+
 
 
 
