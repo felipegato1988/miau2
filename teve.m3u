@@ -2,16 +2,16 @@
 
 ==================ecuador=================
 
-#EXTINF:-1 group-title="Radio Ecuador "  tvg-logo="https://giphy.com/embed/1274JrCgA8hP7a"  , [Ecuador] Radio Anime
+#EXTINF:-1 group-title="Radio Ecuador "  , [Ecuador] Radio Anime
 https://stream.zeno.fm/wpyct1ugdq8uv
 
-#EXTINF:-1 group-title="Radio Ecuador ", tvg-logo="https://giphy.com/embed/1274JrCgA8hP7a"  [Ecuador] RADIO LA NUEVE
+#EXTINF:-1 group-title="Radio Ecuador ",   [Ecuador] RADIO LA NUEVE
 https://stream.zeno.fm/cpknd5gm8ixtv
 
-#EXTINF:-1 group-title="Radio Ecuador " , tvg-logo="https://giphy.com/embed/1274JrCgA8hP7a"  [Ecuador] Radio Cañaveral
+#EXTINF:-1 group-title="Radio Ecuador " ,  [Ecuador] Radio Cañaveral
 https://sonic.streamseguro.com/8054/stream/1/
 
-#EXTINF:-1 group-title="Radio Ecuador ", tvg-logo="https://giphy.com/embed/1274JrCgA8hP7a"  [Ecuador] Radio Matovelle
+#EXTINF:-1 group-title="Radio Ecuador ",   [Ecuador] Radio Matovelle
 https://dattavolt.com/8358/matovelle
 
 #EXTINF:-1 group-title="Radio Ecuador ", [Ecuador] sucre satelital
