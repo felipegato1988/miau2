@@ -5,26 +5,26 @@
 #EXTINF:-1 group-title="Radio Ecuador "  tvg-logo="https://giphy.com/embed/1274JrCgA8hP7a"  , [Ecuador] Radio Anime
 https://stream.zeno.fm/wpyct1ugdq8uv
 
-#EXTINF:-1 group-title="Radio Ecuador ", [Ecuador] RADIO LA NUEVE
+#EXTINF:-1 group-title="Radio Ecuador ", tvg-logo="https://giphy.com/embed/1274JrCgA8hP7a"  [Ecuador] RADIO LA NUEVE
 https://stream.zeno.fm/cpknd5gm8ixtv
 
-#EXTINF:-1 group-title="Radio Ecuador " ,[Ecuador] Radio Cañaveral
+#EXTINF:-1 group-title="Radio Ecuador " , tvg-logo="https://giphy.com/embed/1274JrCgA8hP7a"  [Ecuador] Radio Cañaveral
 https://sonic.streamseguro.com/8054/stream/1/
 
-#EXTINF:-1 group-title="Radio Ecuador ",[Ecuador] Radio Matovelle
+#EXTINF:-1 group-title="Radio Ecuador ", tvg-logo="https://giphy.com/embed/1274JrCgA8hP7a"  [Ecuador] Radio Matovelle
 https://dattavolt.com/8358/matovelle
 
-#EXTINF:-1 group-title="Radio Ecuador ",[Ecuador] sucre satelital
+#EXTINF:-1 group-title="Radio Ecuador ", [Ecuador] sucre satelital
 https://streamingecuador.net:9006/stream?1751216968832
 
-#EXTINF:-1 group-title="Radio Ecuador ",[Ecuador] radio municipal
+#EXTINF:-1 group-title="Radio Ecuador ", [Ecuador] radio municipal
 https://grupomundodigital.com:8817/stream
 
 
-#EXTINF:-1 group-title="Radio Ecuador ",[Ecuador] Radio universitaria
+#EXTINF:-1 group-title="Radio Ecuador ", [Ecuador] Radio universitaria
 https://radio.cedia.org.ec/unl-radio
 
-#EXTINF:-1 group-title="Radio Ecuador ",[Ecuador] RADIO boqueron
+#EXTINF:-1 group-title="Radio Ecuador ", [Ecuador] RADIO boqueron
 https://stream.hospedandosites.com.br/8038/stream/1/
 
 #EXTINF:-1 group-title="Radio Ecuador ",[Ecuador] RADIO Chaski Stereo
